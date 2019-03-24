@@ -1,3 +1,8 @@
+---
+layout: post
+title: ReadMe
+---
+
 # ReadMe
 
 谁说人生不能重来。已经归零，何不再重头，赚个100万。
