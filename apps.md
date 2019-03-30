@@ -63,4 +63,4 @@ title: 工具软件瑞士军刀
 
 *****
 
-![](../assets/DongTalks.jpg)
+![](/assets/DongTalks.jpg)

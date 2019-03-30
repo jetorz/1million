@@ -525,4 +525,4 @@ MJ 老师建议的投资比例为
 
 *****
 
-![](../assets/DongTalks.jpg)
+![](/assets/DongTalks.jpg)
