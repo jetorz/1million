@@ -522,3 +522,7 @@ MJ 老师建议的投资比例为
 - [《刻意练习》](https://book.douban.com/subject/26895993/)，安德斯·艾利克森
 - [《17天搞定GRE单词》](https://book.douban.com/subject/1803504/)，杨鹏
 - [《理性乐观派》](https://book.douban.com/subject/6913343/)，马特·里德利
+
+*****
+
+![](../assets/DongTalks.jpg)

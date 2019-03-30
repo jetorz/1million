@@ -9,3 +9,7 @@ title: ReadMe
 
 ——东哥
 2019-03-06
+
+*****
+
+![](../assets/DongTalks.jpg)
