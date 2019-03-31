@@ -46,6 +46,7 @@ title: 工具软件瑞士军刀
 - [天眼查](https://www.tianyancha.com/)，企业信用数据，一站打尽；
 - [ProcessOn](https://www.processon.com/)，没有比这个更好的流程图工具了；
 - [幕布](http://mubu.com/)，大纲笔记及思维导图工具；
+- [文图](https://wentu.io/)，在线图表制作工具；
 
 # 5. 亲子工具
 
