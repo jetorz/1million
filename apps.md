@@ -28,7 +28,7 @@ title: 工具软件瑞士军刀
 - [印象笔记](https://www.yinxiang.com/)，正在逐渐脱离中；
 - [Outlook](https://outlook.live.com/)。为了Gmail也是操碎了心，目前来看Outlook是唯一可以稳定收发Gmail的选择，163/QQ/Aliyun都非上选；
 
-## 学习工具
+## 2.1 学习工具
 
 - [Anki](https://apps.ankiweb.net/)堪称第二大脑，学习神器。背单词必备工具。多平台软件，注册账号后可同步数据。桌面端、网页端免费，手机端付费；
 
