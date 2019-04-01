@@ -28,7 +28,7 @@ title: 工具软件瑞士军刀
 - [印象笔记](https://www.yinxiang.com/)，正在逐渐脱离中；
 - [Outlook](https://outlook.live.com/)。为了Gmail也是操碎了心，目前来看Outlook是唯一可以稳定收发Gmail的选择，163/QQ/Aliyun都非上选；
 
-## 2.1 学习工具
+## 2.1. 学习工具
 
 - [Anki](https://apps.ankiweb.net/)堪称第二大脑，学习神器。背单词必备工具。多平台软件，注册账号后可同步数据。桌面端、网页端免费，手机端付费；
 
@@ -54,11 +54,11 @@ title: 工具软件瑞士军刀
 - [Scratch - Imagine, Program, Share](https://scratch.mit.edu/),MIT出品的儿童编程工具；
 - [Code.org](https://studio.code.org/home)，上佳儿童编程工具；
 
-# 5. 其它工具
+# 6. 其它工具
 
 - 美好生活少不了电影，[IINA](https://lhc70000.github.io/iina/zh-cn/)号称现代的 macOS 视频播放器，使用起来的确很赞，推荐。
 
-# 6. 总结
+# 7. 总结
 
 工具再好，也抵不上深刻的思想重要。用好的工具，实现深刻的思想，才是真正正确的事情。
 
