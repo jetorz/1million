@@ -64,6 +64,14 @@ title: 工具软件瑞士军刀
 
 - 美好生活少不了电影，[IINA](https://lhc70000.github.io/iina/zh-cn/)号称现代的 macOS 视频播放器，使用起来的确很赞，推荐。
 
+## 6.1. 社群推荐的翻墙资源
+
+1. [Lantern VIP](https://github.com/getlantern/lantern)。这是我现在在用的，欢迎填写邀请码 XX6CYU，每人额外赠送3个月时长；
+2. 多态；
+3. 云梯；
+4. Astrill VPN；
+5. [SEED - 简单好用：在 App Store 上的内容](https://itunes.apple.com/cn/app/id1275872827?mt=8)
+
 # 7. 总结
 
 工具再好，也抵不上深刻的思想重要。用好的工具，实现深刻的思想，才是真正正确的事情。
