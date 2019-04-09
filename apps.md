@@ -19,6 +19,7 @@ title: 工具软件瑞士军刀
 - [Magnet for Mac](http://magnet.crowdcafe.com/)解决了Mac系统窗口管理的问题，配合快捷键操作如行云流水；
 - [Teambition](https://www.teambition.com/)是从刘润老师那里淘到的。她本来是做团队协作的，我没有团队，就把她当成了日程管理助手，代替了之前的[Toodledo](https://www.toodledo.com/)。她在很多方面做得比Toodledo都要好，但创业公司的麻烦就在于长久性，希望不要一段时间后又得重换。
 - [calibre](https://calibre-ebook.com/)是世界上最好的电子书管理软件。配合[DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools)移除kindle版本的限制，堪称完美；
+- [Sigil](https://sigil-ebook.com/)，ePub编辑工具；
 - [kindle](https://www.amazon.cn/gp/digital/fiona/kcp-landing-page/ref=sv_kinc_2)在，书未老；
 - [Lantern VIP](https://github.com/getlantern/lantern/releases/tag/latest)，欢迎填写邀请码 XX6CYU，每人额外赠送3个月时长；
 - [Avast](https://www.avast.com/index#mac)。Mac系统也有中毒的可能。保持良好的上网习惯，免费的Avast足矣。
@@ -27,6 +28,11 @@ title: 工具软件瑞士军刀
 - [Grammarly](https://app.grammarly.com/)，英文写作工具；
 - [印象笔记](https://www.yinxiang.com/)，正在逐渐脱离中；
 - [Outlook](https://outlook.live.com/)。为了Gmail也是操碎了心，目前来看Outlook是唯一可以稳定收发Gmail的选择，163/QQ/Aliyun都非上选；
+- [Workflow](https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8)已被苹果收购，iPhone手机杀手级应用；
+- [Launcher](https://itunes.apple.com/us/app/launcher-with-multiple-widgets/id905099592?mt=8)，手机端快捷启动；
+- [Day Matters](https://itunes.apple.com/us/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter/id406170251?mt=8)，帮你记住重要日子；
+- [名片全能王](https://itunes.apple.com/us/app/camcard-business-card-scanner/id349447615?mt=8)，收藏名片流畅自如；
+- [Microsoft Office Lens](https://itunes.apple.com/cn/app/microsoft-office-lens-pdf-scan/id975925059?mt=8)，数字化文档必备；
 
 ## 2.1. 学习工具
 
@@ -34,7 +40,7 @@ title: 工具软件瑞士军刀
 
 # 3. 开发工具
 
-- 业余选手选择开发工具，应以够用为本，无需太多专业级别的配置。比如开发工具，选[Visual Studio Code](https://code.visualstudio.com/)足以，无需搬出厚重的[Visual Studio](https://visualstudio.microsoft.com/)。
+- [Visual Studio Code](https://code.visualstudio.com/)，业余编程首选；
 - [Dash](https://kapeli.com/dash)何止是有用，简直是必须。免费版不够，还需要购买付费版才过瘾。
 - [Git](https://git-scm.com/)肯定是要装的。Mac下不用再到官网上下载，打开Terminal，输入`git`，系统就会提示安装命令行工具了。
 - [Anaconda](https://anaconda.org/)一次性解决各种第三方包，包括pandas和matplotlib。
