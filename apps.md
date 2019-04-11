@@ -32,7 +32,7 @@ title: 工具软件瑞士军刀
 - [Launcher](https://itunes.apple.com/us/app/launcher-with-multiple-widgets/id905099592?mt=8)，手机端快捷启动；
 - [Day Matters](https://itunes.apple.com/us/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter/id406170251?mt=8)，帮你记住重要日子；
 - [名片全能王](https://itunes.apple.com/us/app/camcard-business-card-scanner/id349447615?mt=8)，收藏名片流畅自如；
-- [Microsoft Office Lens](https://itunes.apple.com/cn/app/microsoft-office-lens-pdf-scan/id975925059?mt=8)，数字化文档必备；
+- [‎印象笔记•扫描宝](https://itunes.apple.com/cn/app/%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0-%E6%89%AB%E6%8F%8F%E5%AE%9D/id883338188?mt=8)，数字化文档必备；
 
 ## 2.1. 学习工具
 
@@ -53,6 +53,7 @@ title: 工具软件瑞士军刀
 - [ProcessOn](https://www.processon.com/)，没有比这个更好的流程图工具了；
 - [幕布](http://mubu.com/)，大纲笔记及思维导图工具；
 - [文图](https://wentu.io/)，在线图表制作工具；
+- [Smallpdf.com - A Free Solution to all your PDF Problems](https://smallpdf.com/)，在线压缩PDF文档很方便；
 
 # 5. 亲子工具
 
