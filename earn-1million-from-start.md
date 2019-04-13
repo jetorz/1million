@@ -953,15 +953,19 @@ SWOT 分析（SWOT Analysis） 是Albert Humphrey于1964年所提出来的一个
 
 ## 7.11. SMART原则
 
-SMART原则是目标管理中的一种方法，由管理学大师彼得·杜拉克于1954年首先提出。SMART原则中的“S”、“M”、“A”、“R”、“T”五个字母分别对应了五个英文单词：Specific（明确性）、Measurable（可衡量性）、Attainable（可达成性）、Relevant（相关性）和Time-bound（时限性）。
+SMART原则是目标管理中的一种方法，由管理学大师彼得·杜拉克于1954年首先提出。SMART原则中的“S”、“M”、“A”、“R”、“T”五个字母分别对应了五个英文单词：
+
+- Specific（明确性）
+- Measurable（可衡量性）
+- Attainable（可达成性）
+- Relevant（相关性）
+- Time-bound（时限性）
 
 心理学家 Heidi Grant Halvorson 在《Succeed：how we can reach our goals》一书里面给出了制定目标的两个大原则：Specific 和 Difficult。
 
 太过宽泛的目标会很容易被大脑忽略，比如总想着有天要出去旅个游，可能始终也不会成行，改成今年元旦想去趟重庆就具体多了，成行的可能性也会大大的增加。
 
 同时目标不要制定的太简单，最好是比现在的水平再高一点点，需要自己再努努力才能达到的。因为太过简单的目标虽然容易达成，但太缺乏挑战，一来容易让人倦怠而导致拖延，二来即使完成了也不会有太多成就感，也即不开心，三来我们也很难在太容易的工作里得到锻炼及成长。所谓的成长，是需要把我们放在让自己不舒服的「学习区」才可以完成的。
-
-> DongTalks137:别让读书也成了一种舒适区 - 七年（17）
 
 SMART 原则可以基本满足这些要求。一方面要求目标制定必须Specific（明确性），同时还需要 Measurable（可衡量性），成功还是没有成功一清二楚。比如说想要读书就不是一个很好的目标，不明确。定为最近读完《Succeed》明确多了。但光看完也不是一个很好的目标，最好可以继续用一些可衡量性的量化指标继续明确，比如要求看完后写出3000字左右的读书笔记，效果就更好了。
 
@@ -1044,29 +1048,42 @@ Time-bound（时限性）讲的是时间管理。现在越来越感觉到，无�
 - [Anaconda](https://anaconda.org/)一次性解决各种第三方包，包括pandas和matplotlib。
 - [Oracle VM VirtualBox](https://www.virtualbox.org/)可以模拟多系统，开发必备；
 
-### 8.3.4. 在线工具
+### 8.3.4. 绘图工具
 
+- 手绘，然后拍照。万能大法，最直接，应用范围最广，只是不方便修改；
+- [LibreOffice Draw](https://www.libreoffice.org/)，功能多，适应范围广，日常应用足以应付。跨平台，Windows和Mac下都可以用。可以导出多种图片格式，满足各种应用；
+- [ProcessOn](https://www.processon.com/)，在线流程图应用，没有比这个更好的流程图工具了。遗憾的是免费空间有点少，；
+- [亿图图示](https://www.edrawsoft.com/cn/edraw-max.php)，亿图图示专家是一款综合图形图表制作软件，它包含丰富的实例和模版，帮助您轻松创建流程图、网络拓扑图、组织结构图、商业图表、工程图，思维导图、软件设计图和平面布局图等。免费，跨平台；
+- PPT类软件。PowerPoint、Keynote、LibreOffice Impress等，都有基本的绘图功能，可以用来进行简单图示创作；
+- Matplotlib，用数据生成图表的首选。难度较大，但值得拥有；
+- [XMind](https://www.xmind.net/)，主打思维导图，也可以做简单的结构图。简单易用，免费，跨平台；
+- [Pencil Project](https://pencil.evolus.vn/)，免费跨平台图示工具；
+
+以上诸工具，均满足免费、跨平台的要求，可满足绝大多数要求。以后不用再在找制图软件上浪费时间了。
+
+### 8.3.5. 在线工具
+
+- [Microsoft To-Do](https://to-do.microsoft.com/)，GTD工具；
 - [LinkedIn](https://www.linkedin.com/feed/)，职场网络；
 - [GitHub](https://github.com/)，世界上最聪明的大脑集散地；
 - [Internet Archive](https://archive.org/)，互联网世界穿梭机；
 - [腾讯文档](https://docs.qq.com/desktop/mydoc)，解决[LibreOffice](https://www.libreoffice.org/)太过缓慢的问题；
 - [天眼查](https://www.tianyancha.com/)，企业信用数据，一站打尽；
-- [ProcessOn](https://www.processon.com/)，没有比这个更好的流程图工具了；
 - [幕布](http://mubu.com/)，大纲笔记及思维导图工具；
 - [文图](https://wentu.io/)，在线图表制作工具；
 - [Smallpdf.com - A Free Solution to all your PDF Problems](https://smallpdf.com/)，在线压缩PDF文档很方便；
 
-### 8.3.5. 亲子工具
+### 8.3.6. 亲子工具
 
 - [‎AdBlock for Mobile](https://itunes.apple.com/cn/app/adblock-for-mobile/id1036484810?mt=8)，保护孩子，远离垃圾广告的侵扰；
 - [Scratch - Imagine, Program, Share](https://scratch.mit.edu/),MIT出品的儿童编程工具；
 - [Code.org](https://studio.code.org/home)，上佳儿童编程工具；
 
-### 8.3.6. 其它工具
+### 8.3.7. 其它工具
 
 - 美好生活少不了电影，[IINA](https://lhc70000.github.io/iina/zh-cn/)号称现代的 macOS 视频播放器，使用起来的确很赞，推荐。
 
-### 8.3.7. 社群推荐的翻墙资源
+### 8.3.8. 社群推荐的翻墙资源
 
 1. [Lantern VIP](https://github.com/getlantern/lantern)。这是我现在在用的，欢迎填写邀请码 XX6CYU，每人额外赠送3个月时长；
 2. 多态；
@@ -1074,7 +1091,7 @@ Time-bound（时限性）讲的是时间管理。现在越来越感觉到，无�
 4. Astrill VPN；
 5. [SEED - 简单好用：在 App Store 上的内容](https://itunes.apple.com/cn/app/id1275872827?mt=8)
 
-### 8.3.8. 总结
+### 8.3.9. 总结
 
 工具再好，也抵不上深刻的思想重要。用好的工具，实现深刻的思想，才是真正正确的事情。
 
