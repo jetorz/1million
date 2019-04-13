@@ -9,7 +9,6 @@ title: ReadMe
 
 喜写作、读书、跑步，欢迎同道者与我联系。
 
-- [张利东@facebook](https://www.facebook.com/izhanglidong)
 - [jetorz@GitHub](https://github.com/jetorz)
 - [张利东@微博](https://weibo.com/zhanglidong)
 
