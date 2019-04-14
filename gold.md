@@ -1552,7 +1552,6 @@ Excerpt From: 吴军　著. “态度.” iBooks.
 - Your Highlight on Location 239-241 | Added on Saturday, January 21, 2017 10:11:25 AM
 
 对孩子来说，故事也会产生影响。如果总是看神童的故事，时间长了，可能就转成僵固型思维模式。如果多让孩子看遇到困难如何处理的故事（不管人际关系方面，还是做事方面），就可能转成成长型思维模式。
-﻿Ry's Git Tutorial (Ryan Hodson)
 - Your Highlight on Location 448-448 | Added on Saturday, January 21, 2017 10:25:47 AM
 
 Using the new git checkout command, we can view the contents of a previous snapshot.
@@ -1563,29 +1562,9 @@ To retrieve our complete history, we just have to check out this branch.
 Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
 - Your Highlight on Location 1459-1459 | Added on Sunday, January 22, 2017 7:02:50 AM
 
-ascribe
-Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
-- Your Highlight on Location 1459-1459 | Added on Sunday, January 22, 2017 7:03:33 AM
-
-undesirable;
-Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
-- Your Highlight on Location 1463-1464 | Added on Sunday, January 22, 2017 7:05:13 AM
-
 Among the most significant causes of stereotyping is "mine is better" thinking,
 Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
 - Your Highlight on Location 1467-1467 | Added on Sunday, January 22, 2017 7:07:51 AM
-
-assimilated
-Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
-- Your Highlight on Location 1468-1468 | Added on Sunday, January 22, 2017 7:08:27 AM
-
-ethnic
-Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
-- Your Highlight on Location 1471-1471 | Added on Sunday, January 22, 2017 7:11:51 AM
-
-obligated
-追时间的人：信息过载时代的知识解决方案 (阳志平)
-- Your Highlight on Location 361-362 | Added on Sunday, January 22, 2017 8:09:25 AM
 
 权衡，就是在不同的选项上分配自己的时间、精力和资源。在一个选项上投入得多，可能在另一个选项上就投入得少；在一个时期投入得多，在另一时期就投入得少。
 追时间的人：信息过载时代的知识解决方案 (阳志平)
@@ -1798,50 +1777,6 @@ we’ve been using master as the stable branch for our example project, and we�
 追时间的人：信息过载时代的知识解决方案 (阳志平)
 - Your Bookmark on Location 717 | Added on Saturday, February 4, 2017 11:49:55 AM
 
-
-How To Do Something Right (Eric Steven Raymond)
-- Your Bookmark on Location 185 | Added on Monday, February 6, 2017 6:04:10 PM
-
-
-Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series) (Zed A. Shaw)
-- Your Highlight on Location 338-339 | Added on Monday, February 6, 2017 7:31:23 PM
-
-The one skill that separates bad programmers from good programmers is attention to detail.
-Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series) (Zed A. Shaw)
-- Your Highlight on Location 342-343 | Added on Monday, February 6, 2017 7:32:13 PM
-
-A very important skill—which most programmers develop over time—is the ability to visually notice differences between things.
-Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series) (Zed A. Shaw)
-- Your Highlight on Location 366-367 | Added on Monday, February 6, 2017 7:36:59 PM
-
-To me, repetitive practice is natural and is just how to learn something.
-Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series) (Zed A. Shaw)
-- Your Highlight on Location 367-368 | Added on Monday, February 6, 2017 7:37:14 PM
-
-to get good at anything you have to practice every day, even if I suck that day (which is often) or it’s difficult. Keep trying and eventually it’ll be easier and fun.
-Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series) (Zed A. Shaw)
-- Your Bookmark on Location 6209 | Added on Monday, February 6, 2017 8:07:12 PM
-
-
-PEP 8 -- Style Guide for Python Code | Python.org (kindle@eub-inc.com)
-- Your Highlight on Location 86-86 | Added on Friday, February 10, 2017 10:51:48 PM
-
-A style guide is about consistency.
-How To Do Something Right (Eric Steven Raymond)
-- Your Highlight on Location 184-185 | Added on Saturday, February 11, 2017 11:39:39 AM
-
-It's best, actually, to learn all five of Python, C/C++, Java, Perl, and LISP.
-How To Do Something Right (Eric Steven Raymond)
-- Your Highlight on Location 186-188 | Added on Saturday, February 11, 2017 11:40:46 AM
-
-But be aware that you won't reach the skill level of a hacker or even merely a programmer simply by accumulating languages — you need to learn how to think about programming problems in a general way, independent of any one language.
-Think Stats: Exploratory Data Analysis (Allen B. Downey)
-- Your Highlight on Location 396-396 | Added on Wednesday, February 15, 2017 8:48:08 AM
-
-The most common representation of a distribution is a histogram, which is a graph that shows the frequency of each value.
-追时间的人：信息过载时代的知识解决方案 (阳志平)
-- Your Highlight on Location 4492-4493 | Added on Saturday, February 18, 2017 7:31:27 AM
-
 时间的源头主要是地理（如波士顿、北京）、人群（专业人士、内部人士和开智微信群）。
 追时间的人：信息过载时代的知识解决方案 (阳志平)
 - Your Highlight on Location 4508-4510 | Added on Saturday, February 18, 2017 7:42:45 AM
@@ -1853,78 +1788,6 @@ The most common representation of a distribution is a histogram, which is a grap
 安替：我现在面对信息过载的方法是：不要面对信息，而要面对人。信息不重要，信息承载人才最重要，你得去和时间最前端的人群连成小社群。
 追时间的人：信息过载时代的知识解决方案 (阳志平)
 - Your Highlight on Location 4551-4551 | Added on Saturday, February 18, 2017 7:48:57 AM
-
-金字塔原理的基本结构是：结论先行，以上统下，归类分组，逻辑递进。先重要后次要，先总结后具体，先框架后细节，先结论后原因，先结果后过程，先论点后论据。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 58-59 | Added on Monday, March 6, 2017 1:56:51 PM
-
-搭建金字塔结构的具体做法是：自上而下表达，自下而上思考，纵向总结概括，横向归类分组，序言讲故事，标题提炼思想精华。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 138-141 | Added on Monday, March 6, 2017 2:04:39 PM
-
-对受众（包括读者、听众、观众或学员）来说，最容易理解的顺序是：先了解主要的、抽象的思想，然后了解次要的、为主要思想提供支持的思想。因为主要思想总是从次要思想概括总结得出，文章中所有思想的理想组织结构也必定是一个金字塔结构——由一个总的思想统领多组思想。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 230-232 | Added on Monday, March 6, 2017 2:11:22 PM
-
-所有的思维过程（如：思考、记忆、解决问题）显然都在使用这种分组和概括的方法，以将大脑中的信息组成一个由互相关联的金字塔组成的巨大的金字塔群。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 235-236 | Added on Monday, March 6, 2017 2:11:54 PM
-
-研究发现，最有效的表达方法是：先提出总的概念，再列出具体项目，即要自上而下地表达思想。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 237-238 | Added on Monday, March 6, 2017 2:12:29 PM
-
-理清表达思想的顺序，是写出条理清晰文章的最重要方式，而清晰的顺序，就是先提出总结性思想，再提出被总结的具体思想。先总结后具体的表达顺序，你必须牢记。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 268-271 | Added on Monday, March 6, 2017 2:15:46 PM
-
-读者在接受信息时，总是在寻找一种能够将所摄入信息联系起来的结构。为了保证读者找到的结构就是你希望他采纳的结构，你必须提前把这种结构告诉他——这样他就知道要寻找哪个共同点。否则，读者很可能会发现某些并非你希望的逻辑关系，甚至可能根本发现不了任何逻辑关系，这样既是在浪费你的时间，也是在浪费读者的时间。
-Python for Data Analysis (Wes McKinney)
-- Your Highlight on Location 2042-2042 | Added on Tuesday, March 7, 2017 6:32:45 AM
-
-Keep in mind that fancy indexing, unlike slicing, always copies the data into a new array.
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 313-315 | Added on Tuesday, March 7, 2017 1:37:46 PM
-
-金字塔中的思想以3种方式互相关联——向上、向下和横向。位于一组思想的上一个层次的思想是对这一组思想的概括，这一组思想则是对其上一层次思想的解释和支持。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 346-347 | Added on Tuesday, March 7, 2017 1:47:05 PM
-
-因为演绎推理、发现因果关系、化整为零和归纳总结是大脑可进行的仅有的4种分析活动，这4种顺序也是大脑可用于组织思想的仅有的4种顺序。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 366-369 | Added on Tuesday, March 7, 2017 1:50:05 PM
-
-一般的文章都是一维的（one-dimensional）：一个句子接着一个句子，在纸面上基本呈现出纵向向下的结构。但是这种文字的纵向延伸却掩盖了一个事实，即思想是位于不同的抽象层次上的。根据这一事实，大主题下的任何思想都同时与文章中的其他思想发生着纵向及横向的联系。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 410-412 | Added on Tuesday, March 7, 2017 1:56:32 PM
-
-综上所述，金字塔结构的巨大价值就在于它迫使你在理清思路时，从视觉上使纵向的疑问／回答式对话关系清晰化。你的每一个表述都应当引发读者的疑问，而你也必须在这一表述下的横向结构层次上逐个回答读者的疑问。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 416-417 | Added on Tuesday, March 7, 2017 1:57:51 PM
-
-表述必须具有明确的归纳或演绎关系，但不可同时既具有归纳关系，又具有演绎关系。在组织思想时，归纳和演绎是仅有的两种可能的逻辑关系。
-Learning Python (Mark Lutz)
-- Your Highlight on Location 4764-4764 | Added on Wednesday, March 8, 2017 2:53:31 PM
-
-shared reference
-Learning Python (Mark Lutz)
-- Your Highlight on Location 4763-4764 | Added on Wednesday, March 8, 2017 2:53:48 PM
-
-This scenario, with multiple names referencing the same object, is called a shared reference in Python.
-Python for Data Analysis (Wes McKinney)
-- Your Highlight on Location 2514-2515 | Added on Wednesday, March 8, 2017 4:04:21 PM
-
-A Series is a one-dimensional array-like object containing an array of data (of any NumPy data type) and an associated array of data labels, called its index.
-Python for Data Analysis (Wes McKinney)
-- Your Highlight on Location 2934-2935 | Added on Thursday, March 9, 2017 6:50:49 AM
-
-One of the most important pandas features is the behavior of arithmetic between objects with different indexes.
-Python for Data Analysis (Wes McKinney)
-- Your Highlight on Location 3038-3039 | Added on Thursday, March 9, 2017 7:00:54 AM
-
-Another frequent operation is applying a function on 1D arrays to each column or row. DataFrame’s apply method does exactly this:
-开家长长久久的咖啡馆（知乎 ID ：Dimlau 作品） (知乎「一小时」系列) (Dimlau;知乎)
-- Your Highlight on Location 420-420 | Added on Thursday, March 9, 2017 1:45:23 PM
 
 独立咖啡馆赖以生存的魅力之一就是咖啡馆的性格。
 开家长长久久的咖啡馆（知乎 ID ：Dimlau 作品） (知乎「一小时」系列) (Dimlau;知乎)
@@ -1952,42 +1815,6 @@ Another frequent operation is applying a function on 1D arrays to each column or
 概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
 - Your Highlight on Location 185-187 | Added on Monday, March 27, 2017 1:14:32 PM
 
-S包含所有的样本点，为S本身的子集，在每次试验中它总是发生的，故称为必然事件；而空集φ中不包含任何样本点，它在每次试验中都不发生，故称为不可能事件。为讨论方便起见，我们把必然事件与不可能事件均称作随机事件。
-概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
-- Your Highlight on Location 191-192 | Added on Monday, March 27, 2017 1:16:11 PM
-
-1°　若A⊂B（或B⊃A），则称事件B包含事件A，或称A包含于事件B，即指事件A发生必导致事件B发生。若A⊂B，且B⊂A，即A＝B，则称事件A与事件B相等（或等价），为同一事件。
-概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
-- Your Highlight on Location 193-195 | Added on Monday, March 27, 2017 1:16:42 PM
-
-事件A∪B＝｛e｜e∈A或e∈B｝称为事件A与事件B的和事件，当且仅当A、B中至少有一个发生时，事件A∪B发生，A∪B亦可记作A＋B。
-概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
-- Your Highlight on Location 199-200 | Added on Monday, March 27, 2017 1:17:24 PM
-
-事件A∩B＝｛e｜e∈A且e∈B｝称为事件A与事件B的积事件，即当且仅当A、B同时发生时，事件A∩B才发生，A∩B简记作AB。
-概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
-- Your Highlight on Location 203-204 | Added on Monday, March 27, 2017 1:18:23 PM
-
-事件A－B＝｛e｜e∈A且e∉B｝称为事件A与事件B的差事件，当且仅当A发生，B不发生时事件A－B发生。
-概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
-- Your Highlight on Location 206-207 | Added on Monday, March 27, 2017 1:19:46 PM
-
-若A∩B＝φ，则称事件A与B是互不相容的，或称之互斥的，即指事件A与事件B不能同时发生。
-概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
-- Your Highlight on Location 210-212 | Added on Monday, March 27, 2017 1:20:31 PM
-
-若A∪B＝S，且A∩B＝φ，则称事件A与事件B互为逆事件。又称事件A与B互为对立事件。即指对每次试验而言，事件A、B中必有一个发生，且仅有一个发生，A的对立事件记为。可知，＝S－A。
-金字塔原理:麦肯锡40年经典培训教材 ([美]芭芭拉·明托)
-- Your Highlight on Location 486-486 | Added on Monday, March 27, 2017 1:30:00 PM
-
-自上而下的方法通常比自下而上的方法更容易，因此，你应当首先尝试用自上而下的方法。
-HTTP 下午茶 (看云文档小组)
-- Your Bookmark on Location 221 | Added on Tuesday, March 28, 2017 6:39:00 AM
-
-
-概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
-- Your Highlight on Location 300-301 | Added on Tuesday, March 28, 2017 2:01:42 PM
-
 当试验次数n充分大时，随着n的增大，事件A出现的频率总是围绕某一个常数P（A）附近摆动。这种性质我们称为频率的稳定性，而称常数P（A）为稳定中心。
 概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
 - Your Highlight on Location 326-327 | Added on Tuesday, March 28, 2017 2:04:19 PM
@@ -1995,10 +1822,6 @@ HTTP 下午茶 (看云文档小组)
 设E为随机试验，S是它的样本空间，对于E的每一事件A，赋予一实数P（A），若集函数P（·）满足下列条件，则称P（A）为事件A的概率：
 概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
 - Your Highlight on Location 330-331 | Added on Tuesday, March 28, 2017 2:05:20 PM
-
-不可能事件发生的概率为零。
-概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
-- Your Highlight on Location 335-335 | Added on Tuesday, March 28, 2017 2:05:35 PM
 
 对于有限个互斥事件A1，A2，…，An的和事件发生的概率具有有限可加性。
 概率论与数理统计(第3版) (普通高等院校“十一五”规划教材) ( )
