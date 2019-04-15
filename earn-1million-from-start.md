@@ -486,6 +486,14 @@ $$
 
 但是在如何设置淘汰机制上却有讲究，需要多方考虑，而不是简单的实行末位淘汰。用这种简单粗暴方法的企业，上层定然头脑简单，不值久留。
 
+### 4.1.5. 能让员工成长的企业
+
+职业培训是一个有抱负的企业应该提供给员工的福利。没有培训，员工只有工作没有成长，这样的企业很难有长足的发展。
+
+就像在谷歌内部，有无数种培训。虽然外面也有很多商业培训，或者在线公开课可以让有进取心的员工在下班后自学，但是单位组织的业界培训针对性更强，也是不可忽视的。
+
+像有些单位，把培训糊弄了事，甚至请外面的合作单位来趁机打广告搞收益，十足的小家子气，不会有什么大发展的。越早离开越好。
+
 ## 4.2. 怎样实现职场晋升
 
 ### 4.2.1. 利用好公司资源
@@ -1141,7 +1149,6 @@ Time-bound（时限性）讲的是时间管理。现在越来越感觉到，无�
 - [坚果云](https://www.jianguoyun.com/)用来存放重要文件，所有东西尽在云端；
 - [百度网盘](https://pan.baidu.com/)，用来搜集和共享一些资料，非常方便；
 - [Magnet for Mac](http://magnet.crowdcafe.com/)解决了Mac系统窗口管理的问题，配合快捷键操作如行云流水；
-- [Teambition](https://www.teambition.com/)是从刘润老师那里淘到的。她本来是做团队协作的，我没有团队，就把她当成了日程管理助手，代替了之前的[Toodledo](https://www.toodledo.com/)。她在很多方面做得比Toodledo都要好，但创业公司的麻烦就在于长久性，希望不要一段时间后又得重换。
 - [calibre](https://calibre-ebook.com/)是世界上最好的电子书管理软件。配合[DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools)移除kindle版本的限制，堪称完美；
 - [Sigil](https://sigil-ebook.com/)，ePub编辑工具；
 - [kindle](https://www.amazon.cn/gp/digital/fiona/kcp-landing-page/ref=sv_kinc_2)在，书未老；
@@ -1157,6 +1164,7 @@ Time-bound（时限性）讲的是时间管理。现在越来越感觉到，无�
 - [Day Matters](https://itunes.apple.com/us/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter/id406170251?mt=8)，帮你记住重要日子；
 - [名片全能王](https://itunes.apple.com/us/app/camcard-business-card-scanner/id349447615?mt=8)，收藏名片流畅自如；
 - [坚果云扫描](https://itunes.apple.com/cn/app/scan-paper/id1377121820?l=en&mt=8)，电子化文档必备工具；
+- [Double Commander](https://doublecmd.sourceforge.io/)，Mac系统下文件管理软件；
 
 ### 10.3.2. 学习工具
 
@@ -1191,6 +1199,7 @@ Time-bound（时限性）讲的是时间管理。现在越来越感觉到，无�
 - [Internet Archive](https://archive.org/)，互联网世界穿梭机；
 - [腾讯文档](https://docs.qq.com/desktop/mydoc)，解决[LibreOffice](https://www.libreoffice.org/)太过缓慢的问题；
 - [天眼查](https://www.tianyancha.com/)，企业信用数据，一站打尽；
+- [企查查](http://www.qichacha.com/)，全国企业信用信息公示系统数据；
 - [幕布](http://mubu.com/)，大纲笔记及思维导图工具；
 - [文图](https://wentu.io/)，在线图表制作工具；
 - [Smallpdf.com - A Free Solution to all your PDF Problems](https://smallpdf.com/)，在线压缩PDF文档很方便；

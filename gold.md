@@ -5888,29 +5888,9 @@ IBM 能成为科技界的常青树，要归功于它的二字秘诀——保守�
 Linear Algebra and Its Applications 4ed.MI - Gilbert Strang  
 - 您在第 8-8 页的标注 | 添加于 2019年3月21日星期四 下午7:05:41
 
-The two fundamental problems are Ax = b and Ax = l x for square matrices A. The ﬁrst problem Ax = b has a solution when A has independent columns. The second problem Ax = l x looks for independent eigenvectors. A crucial part of this course is to learn what “independence”
-Linear Algebra and Its Applications 4ed.MI - Gilbert Strang  
-- 您在第 9-9 页的标注 | 添加于 2019年3月21日星期四 下午7:07:37
-
-Elimination is the simple and natural way to understand a matrix by producing a lot of zero entries. So the course starts there. But don’t stay there too long! You have to get from combinations of the rows, to independence of the rows, to “dimension of the row space.” That is a key goal, to see whole spaces of vectors: the row space and the column space and the nullspace
-超越感觉:批判性思考指南(第8版) (博学译丛) (文森特•鲁吉罗)
-- 您在位置 #4456-4456的标注 | 添加于 2019年3月21日星期四 下午9:16:04
-
 我们对一个人的关注不在于他讲得多么雄辩，而在于他的证据是什么。
 Introduction to Linear Algebra, 4th Editio - Gilbert Strang  
 - 您在第 ix-ix 页的标注 | 添加于 2019年3月22日星期五 上午8:13:14
-
-A key goal is learning to "read" a matrix. You need to see the meaning in the numbers. This is really the essence of ma thema t i c s -pa t t e rns and their meaning
-Introduction to Linear Algebra, 4th Editio - Gilbert Strang  
-- 您在第 5-5 页的标注 | 添加于 2019年3月22日星期五 上午8:31:47
-
-The reason for the row form (in parentheses) is to save space. But v = (1,1, -1) is not a row vector! I t is in actuality a column vector, just temporarily lying down. The row vector [1 1 -1] is absolutely different, even though it has the same three components. That row vector is the "transpose" of the column v.
-Introduction to Linear Algebra, 4th Editio - Gilbert Strang  
-- 您在第 5-5 页的标注 | 添加于 2019年3月22日星期五 上午8:35:15
-
-For one vector u, the only linear combinations are the multiples cu. For two vectors, the combinations are cu + dv . For three vectors, the combinations are cu + dv + ew. Will you take the big step from one combination to all combinations? Every c and d and e are allowed. Suppose the vectors u, v , wa r e in three-dimensional space: 1. What is the picture of all combinations cu? 2. What is the picture of all combinations c u + d v? 3. What is the picture of all combinations cu + dv + ew? The answers depend on the particular vectors u, v , and w. I f they were zero vectors (a very extreme case), then every combination would be zero. I f they are typical nonzero vectors (components chosen at random), here are the three answers. This is the key to our subject: 1. The combinations cu fill a line. 2. The combinations cu +dv fill a plane. 3. The combinations cu + dv + ew fill three-dimensional space
-非对称风险 ([美]纳西姆·尼古拉斯)
-- 您在位置 #3781-3782的标注 | 添加于 2019年3月23日星期六 上午10:07:49
 
 我自己在生活中尽量保持对风险事件后果的“敬畏”，因为爆仓不仅会让人前功尽弃，而且会让人永远出局。在爆仓风险面前，成本收益分析变得微不足道。
 非对称风险 ([美]纳西姆·尼古拉斯)
