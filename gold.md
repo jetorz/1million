@@ -1550,14 +1550,6 @@ Excerpt From: 吴军　著. “态度.” iBooks.
 对孩子来说，故事也会产生影响。如果总是看神童的故事，时间长了，可能就转成僵固型思维模式。如果多让孩子看遇到困难如何处理的故事（不管人际关系方面，还是做事方面），就可能转成成长型思维模式。
 - Your Highlight on Location 448-448 | Added on Saturday, January 21, 2017 10:25:47 AM
 
-Using the new git checkout command, we can view the contents of a previous snapshot.
-﻿Ry's Git Tutorial (Ryan Hodson)
-- Your Highlight on Location 472-472 | Added on Saturday, January 21, 2017 10:29:49 AM
-
-To retrieve our complete history, we just have to check out this branch.
-Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
-- Your Highlight on Location 1459-1459 | Added on Sunday, January 22, 2017 7:02:50 AM
-
 Among the most significant causes of stereotyping is "mine is better" thinking,
 Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
 - Your Highlight on Location 1467-1467 | Added on Sunday, January 22, 2017 7:07:51 AM
@@ -1582,22 +1574,6 @@ Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
 Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
 - Your Highlight on Location 1475-1475 | Added on Monday, January 23, 2017 6:40:38 AM
 
-folk
-Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
-- Your Highlight on Location 1477-1477 | Added on Monday, January 23, 2017 6:41:26 AM
-
-venture
-Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
-- Your Highlight on Location 1479-1479 | Added on Monday, January 23, 2017 6:41:51 AM
-
-injustice
-Beyond Feelings, 6th Edition (Vincent Ryan Ruggiero)
-- Your Highlight on Location 1481-1481 | Added on Monday, January 23, 2017 6:42:39 AM
-
-frustrations
-Ry's Git Tutorial (Ryan Hodson)
-- Your Highlight on Location 627-628 | Added on Monday, January 23, 2017 7:02:12 AM
-
 First, branches present an error-proof method for incorporating changes from an experiment.
 Ry's Git Tutorial (Ryan Hodson)
 - Your Highlight on Location 666-666 | Added on Monday, January 23, 2017 7:08:19 AM
@@ -1610,21 +1586,9 @@ Instead of re-creating the commits in css and adding them to the history of mast
 Ry's Git Tutorial (Ryan Hodson)
 - Your Highlight on Location 878-880 | Added on Monday, January 23, 2017 8:16:43 AM
 
-we’ve been using master as the stable branch for our example project, and we’ve also used a temporary branch to add some CSS formatting. Temporary branches like the latter are called topic branches because they exist to develop a certain topic, then they are deleted.
-追时间的人：信息过载时代的知识解决方案 (阳志平)
-- Your Highlight on Location 1935-1936 | Added on Wednesday, January 25, 2017 6:54:36 AM
-
-生存导向、层次结构，是神经回路或思维本身的两个基本特征，由自然选择所设计。语言则是这种思维模式的外部表达。
-追时间的人：信息过载时代的知识解决方案 (阳志平)
-- Your Highlight on Location 2079-2079 | Added on Wednesday, January 25, 2017 7:05:20 AM
-
 快速阅读高难度论文，其实抓住这些关键词，效率比较高。
 追时间的人：信息过载时代的知识解决方案 (阳志平)
 - Your Highlight on Location 2084-2085 | Added on Wednesday, January 25, 2017 7:05:58 AM
-
-邓巴的意向层次论就是认为人的意向性层次通常只有4~5层。
-追时间的人：信息过载时代的知识解决方案 (阳志平)
-- Your Highlight on Location 2097-2098 | Added on Wednesday, January 25, 2017 7:08:59 AM
 
 逻辑思维训练还是得从亚里士多德、洛克、达尔文他们的著作出发，这没有别的办法了。但孩子们总是喜欢读小说甚于读分析作品，以后就只能当90%，被10%掌握逻辑和编程的人管理。
 追时间的人：信息过载时代的知识解决方案 (阳志平)
@@ -1752,22 +1716,6 @@ we’ve been using master as the stable branch for our example project, and we�
 对于任何一个生命体来说，它需要解决的三大任务是：生存、发展（发育）和繁殖。
 追时间的人：信息过载时代的知识解决方案 (阳志平)
 - Your Highlight on Location 526-529 | Added on Saturday, February 4, 2017 6:30:29 AM
-
-因此，面对这数百年的急剧变化，人类在心理上可能还没有进化出一套有效的应对之道，他们很可能无意识地使用以前的老办法——男人和女人的择偶心理。于是，他们的友情或多或少就要受择偶动机的影响了。很多时候，这种影响是无意识的，他们并不知道。无论是想要暗度陈仓追求爱人，还是想要多多益善俘获情人，这样的行为常常都是在下意识中进行的。
-追时间的人：信息过载时代的知识解决方案 (阳志平)
-- Your Highlight on Location 563-567 | Added on Saturday, February 4, 2017 6:32:13 AM
-
-除此之外，男人和女人的友情还得面对性这样一个棘手的问题。 无意识劫持择偶心理，这给男女友情带来了隐患。面对这个难题，我们还要请权衡出手：除了遵守友情的“国际公约”之外，还要谨慎处理性的问题。慎独、节制、恪守本分，这些美德其实都可用于男女友情中，让友情在适当的氛围下获得保护、成长和发展。维持友情的策略，不过就是让友情归于友情，恰如让恺撒的归恺撒，让上帝的归上帝。除此，无他。
-追时间的人：信息过载时代的知识解决方案 (阳志平)
-- Your Highlight on Location 640-644 | Added on Saturday, February 4, 2017 6:35:07 AM
-
-进化心理学不是万能的，这一点对任何一个学科都适用。说实话，没有任何一个科学学科是万能的。进化心理学仅仅在科学层面的意义上增加了对人性的认识和理解，但它不包含任何道德层面的含义或暗示。千万记住：我们知道的仅仅是人性中有哪些可能性，至于要不要实现这种可能性，这受制于个人的价值观，受制于社会环境的约束，跟个人的自由意志也有莫大的关系。
-追时间的人：信息过载时代的知识解决方案 (阳志平)
-- Your Highlight on Location 665-667 | Added on Saturday, February 4, 2017 6:36:43 AM
-
-目前进化心理学的假设认为，在农业文明产生之前的数百万年的人类进化史（从猿到人的进化过程，其实也可以加上灵长类的进化史，那就是数千万年了）塑造了人类的心智，其中很多心智特点保留到今天，即使不在现在的环境下依然有用。
-追时间的人：信息过载时代的知识解决方案 (阳志平)
-- Your Highlight on Location 681-681 | Added on Saturday, February 4, 2017 6:37:30 AM
 
 做事不认真的人，就是在出卖自己。
 追时间的人：信息过载时代的知识解决方案 (阳志平)
@@ -5968,3 +5916,5 @@ Introduction to Linear Algebra, 4th Editio - Gilbert Strang
 
 唯有完人才够资格向罪人丢石头，但是，完人是没有的。
 ——《看见》，柴静
+
+我们总喜欢拿顺其自然来敷衍人生道路上的荆棘坎坷，却很少承认，真正的顺其自然，其实是竭尽所能之后不强求，而非两手一摊不作为。
