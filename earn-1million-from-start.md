@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 从零赚到100万
+title: Restart
 ---
 
 ![](assets/finance-freedom.jpg)
@@ -39,15 +39,15 @@ title: 从零赚到100万
 
 尤其对于一些需要多次重复的事务性工作，一旦完成，尽量总结成清单，甚至做成自动化脚本，可以为以后节约大量时间，而且可以把事情做得更好。
 
-### 1.2.3. 找个人生教练
+### 1.2.3. 寻找人生教练
 
 《重新定义公司》和《重新定义团队》里面都提到了商业教练的事情。世界上最顶级的运动员依然需要教练，谷歌的CEO也需要商业教练。教练的好处，不在于他水平比你高，而是可以从旁观察，常能旁观者清。
 
 所以我们的人生也需要教练。教练的意义，就是通过观察，指出自己那些地方需要改进。人生的伴侣朝夕相处，其实可以作为最佳教练。以后要注意和丫头多沟通，指出对方需要改进的地方，充当彼此的人生教练，实现共同进步。
 
-## 1.3. 修炼品行
+## 1.3. 修炼品格
 
-查理芒格说，想要得到一件东西，最好的办法就是让自己配得上它。那么就修养自己品格而言，有什么好的品质是我们注重的呢？
+查理芒格说，想要得到一件东西，最好的办法就是让自己配得上它。那么就修养自己品格而言，有什么好的品格是我们注重的呢？
 
 - 坚持；
 - 认真；
@@ -63,6 +63,7 @@ title: 从零赚到100万
 - 感恩；
 - 热心；
 - 积极主动；
+- 豁达；
 
 长期思考，不断补充。
 
@@ -171,6 +172,12 @@ title: 从零赚到100万
 - 及时回复。无论是邮件还是短信，别人有消息过来，尽早给个回复，哪怕只是告诉别人自己收到了，稍晚点答复；
 - 形成闭环。遇事一定要有明确结论，甚至在当前没有明确结论的时候，也要形成闭环，给别人一个清楚的预期；
 
+### 1.8.8. 记笔记
+
+记笔记分为工整的正式笔记，和随意的灵感笔记。正式笔记常有专门格式，根据要求进行即可。灵感笔记最好用纸笔，涂写随意，激发创意。
+
+每天抽点时间，随便在笔记本上写写画画，其实是激发灵感、进入发散模式的极佳方式。而且这种行为适应性极强，连等公交车等碎片时间都可以充分利用起来。
+
 ## 1.9. 设定正确的目标是成功的前提条件
 
 凡事在目标确定以后就很简单了，无非是动手执行，真正困难的是设定目标本身。一不小心目标设置错误，可能事倍功半，甚至导致失败。
@@ -232,6 +239,8 @@ title: 从零赚到100万
 
 对应于大局观，就是在生活中要懂得取舍。什么东西重要，什么东西不重要；什么东西是当下最重要的事情，什么东西是现在可以放一放的。想清楚了这些问题，就要集中火力在最关键的事情上，把其他所有需要丢弃的都抛开。
 
+生活需要断舍离。
+
 比如当时报考读研，雅思就是最重要的事情，所以玩命学英语，把其他东西都放下。现在Offer已经拿到，英语虽然也重要，但已经不是罪重要的事情了，就可以一边继续学英语，一边补新专业需要的基础课，诸如线性代数之类。这就是在不同阶段要有不同的焦点。
 
 再比如设计院当年的一个很大问题，就是不懂取舍。市场恶化的时候，什么活都接，导致一些根本没有利润甚至可能导致亏损的项目也要承接，而且浪费了大量人力资源。一个投资1000万的项目和投资100亿的项目，放在同样重要的地位，导致生产部门疲于奔命，就是不懂取舍。
@@ -256,6 +265,17 @@ title: 从零赚到100万
 生活中难免有各种奇怪的事情，会让我们烦心。比如无良商家缺斤少两，出租车司机绕路之类。遇到这种事情，最好的办法不是自己去PK，因为很可能别人有的是时间；不如干脆找个律师，把专业的事情交给专业的人去做，往往能收到更好的效果。
 
 有人说律师费可是很贵的，常常是维权成本比收益都高。其实这也可以考虑成一条法则，如果损失连律师费都不值，那也不值得我们花费太多时间和精力在上面。总为这些小事费心，就没有精力在真正重要的事情上了，那才是最大的损失。
+
+### 1.14.4. 远离任何不值得交往的人
+
+不值得交往的人有各种特点，一旦识别出来，尽早远离，千万不要在其身上浪费时间。他们就像泥潭，会让你也深陷进去。这样的人的特点有
+
+- 负能量太重。什么事情都是坏的，到处抱怨；
+- 素质低下。虽然人的素质可能有成长环境的原因，但抱歉我没有兴趣对你的成长环境负责；
+- 阴谋论者。阴谋论者心理大多阴暗，待人看事无不如此。虽然我没有证据证明阴谋论者是错的，但抱歉我们三观不合；
+- 迷恋权势者。世界上最不可靠的就是权势，所以迷恋权势的人注定是反复无常的小人；
+
+心里始终要有根弦，不是所有人的值得交往，不是所有观点都值得欣赏，不是所有选择都值得歌颂。去高价值的地方，远离泥潭。
 
 ## 1.15. 正确比成功更重要
 
@@ -291,7 +311,13 @@ title: 从零赚到100万
 
 接受大力胜巧，是开始接受现实的第一步。
 
-## 1.18. 主动选择
+## 1.18. 积极主动
+
+《重新定义团队》里面讲谷歌招聘的时候讲过这样一件事，就是他们从来不去招聘网站刊登广告，因为他们认为，动机强烈的求职者会主动到谷歌网站申请工作，只有动机相对较弱的求职者才会依赖于招聘网站。从这里可以看出，凡事主动一些往往会有意想不到的收获。
+
+再比如以前和同事一起出去活动，有些同事自己没有车，又不主动联系有车的同事，最后就可能别人都走了，把他一个人丢那里了。自己的事情，必须自己上心。职场中，生活中，甚至恋爱中，婚姻中，无不应如此。
+
+### 1.18.1. 主动选择
 
 有一段话说的挺好
 
@@ -312,6 +338,10 @@ title: 从零赚到100万
 那么时机到了就可以主动选择抓住机会，时机没到怎么办？很简单，继续积累。主动选择不是随机做布朗运动，机会成本是最大的成本，乱动会耗光好资源。所以时机不到的时候，等待和积累才是最佳策略。
 
 要能等，要会等。要耐得住寂寞，要知得了天命。这方面，司马懿是高手中的高手，堪称三国第一人。
+
+### 1.18.2. 主动学习
+
+### 1.18.3. 主动交往
 
 ## 1.19. 自己承担责任
 
@@ -1153,7 +1183,7 @@ MJ 老师建议的投资比例为
 
 ### 8.3.4. 跑步
 
-# 9. 工具
+# 9. 思维框架
 
 ## 9.1. 遍历法
 
@@ -1181,21 +1211,7 @@ MJ 老师建议的投资比例为
 
 但同时不能否认的是，纸笔也有很大的局限性。比如容易丢失，不易保存，难以检索及修改等。总会有这种时候罢，辛辛苦苦写下的清单最后却忘了放在哪里。所以我们需要在充分发挥其长处的同时避免其短处。我的方法是写完后就拍张照片发电脑上，有空的时候整理成电子文档保存下来。纸笔只用来收集，不负责存储。
 
-## 9.4. 函数曲线，数据优美的表达方法
-
-李笑来先生《新生——七年就是一辈子》里第一篇文章就是「人生最重要的概念：复利」，用很长的篇幅讲述了复利的概念。复利是个纯数学概念，公式为
-
-![](assets/compound-interest-formula.png)
-
-文字也好，数字也罢，虽然可以精准的表述出其概念，但在直观性上总是会差那么一点点。这时候函数曲线就可以派上用场了。复利曲线直接了当的说明了随着时间的增长，收益会以极快的速度增长这个概念，使其极具冲击性。
-
-![](assets/compound-interest.png)
-
-其实回想一下中学数学就可以知道，解析几何就是在用图像来说明函数。各种函数都可以在坐标系里用一条曲线或线段来表示，我们用图像可以明确的看出变化趋势，求解的过程就是寻找曲线交点的过程……函数曲线是帮助我们理解复杂枯燥的数学概念的一个极重要的武器。
-
-生活中能用到纯理论的数学函数的地方不会太多，但每次遇到的时候，都不妨画一条函数曲线试试。只要给出函数定义，很多计算机软件都能非常容易的绘制出曲线。SpeQ、MathCAD 等软件都非常好用。
-
-## 9.5. 清单，简单明了的思考工具
+## 9.4. 清单，简单明了的思考工具
 
 清单可以说是我们最简单却最具实用性的工具之一。每个人在生活中都会有大大小小的清单。出门旅行前需要准备的行李可以列个整理清单，工作时候手头有哪些事情需要处理可以列个待办事务清单，理财购买了哪些基金可以列个投资清单，去超市购物需要采购的东西可以列个购买清单……本质上来说，本文其实也是一个清单，一个「辅助思考工具清单」。
 
@@ -1221,7 +1237,7 @@ MJ 老师建议的投资比例为
 
 列表工具可以很简单，一支笔一张纸足以。但在非灵感记录方面，我依然推荐采用电子化工具。现在很火的幕布、老牌的 Workflowy 都可以拿来用用。我自己用的是 Toodledo，记录生活中大大小小的事情，拥有 Web 端和 iOS 端，云同步，各种排序和分类，完美的满足了我的需求。另外，Toodledo 其实是一款 GTD 软件，也就是说，所谓 GTD，无非是稍微复杂一点的清单罢了。
 
-## 9.6. 简单矩阵，双维度思考
+## 9.5. 简单矩阵，双维度思考
 
 先生在七年社群写作课里面提到的简单二分法，其实就是矩阵的应用。将事情在一个属性上分为 A 和 B，在另一个属性上分为 X 和 Y，将其置于矩阵里，就可以得出 AX/AY/BX/BY 四种组合。这种矩阵组合可以让我们从不同的角度思考问题，获取更全面的思考。
 
@@ -1243,7 +1259,7 @@ MJ 老师建议的投资比例为
 
 ![](assets/important-emergency-Quadrant.png)
 
-## 9.7. 复杂矩阵，多维度思考
+## 9.6. 复杂矩阵，多维度思考
 
 在简单的二维矩阵上进一步扩充，就可以得到复杂矩阵。二维矩阵可以简单的对应到直角坐标系，多维矩阵则难以找到明确的几何概念，通常就直接用列表的形式使用了。
 
@@ -1253,7 +1269,7 @@ MJ 老师建议的投资比例为
 
 多维矩阵的好处在于可以把一个很复杂的事情分解成很多小的方面去思考，从而逐个突破，避免对一个大而无当的问题无从下手。但多维矩阵的一个缺点是无法考虑各个因素的权重。比如对于酒业销售来说，饭店环境如何其实影响不大，但饭店的客流量和价格就会重要得多。这时候可以给每个参数都设置一个加权系数，最后取加权总分就合理多了。
 
-## 9.8. 头脑风暴，让思想激荡
+## 9.7. 头脑风暴，让思想激荡
 
 头脑风暴法（英语：Brainstorming），又称为脑力激荡法，是一种为激发创造力、强化思考力而设计出来的一种方法。此法是美国BBDO（Batten, Bcroton, Durstine and Osborn）广告公司创始人亚历克斯‧奥斯本于1938年首创的。
 
@@ -1263,7 +1279,7 @@ MJ 老师建议的投资比例为
 
 所以，头脑风暴往往更适合扁平化管理的新型企业，传统企业里面暂时没有看到可行的希望。我常常会自己和自己用头脑风暴，把闪现的各种点子都记录下来。但头脑风暴的本意是不同的思维在碰撞中产生灵感，自己和自己用则很难突破个人认知的局限，效果未免会打折扣。所幸的是现在的移动互联网连接了所有人，我们可以在网上找到志趣相投的人一起进行脑力激荡。阳志平先生开办的开智社群，聚集了世界一流的认知、神经、心理科学家与创作者，社群成员有来自诺奖得主实验室的青年科学家，有国家千人计划专家与国家优秀青年科学家得主，有登上全球TED演讲舞台的媒体人，有耶鲁世界学者与世界雨果奖得主，有执掌数亿美金的资深投资人，更有无数推特、知乎、豆瓣、微博网络红人，覆盖全网粉丝上千万人。他们在群里的聊天扯淡灌水吵架就是各种头脑风暴脑力激荡，最后整理成册正式出版为《追时间的人》，豆瓣评分9.2，常让人感慨万千向往不已。
 
-## 9.9. PDCA循环
+## 9.8. PDCA循环
 
 比如对于改善产品质量，PDCA循环就非常有用。PDCA循环由美国学者爱德华兹·戴明提出。一般用来提高产品品质和改善产品生产过程。其中 P 代表 Plan，也即计划；D 代表 Do，即执行计划，并在过程中收集信息；C 代表 Check，即研究上一步收集到的信息，和预期设计进行比较，并提出修改方案，包括执行后的改善和计划的完善使得计划的可执行性提高；A 代表 Act，即根据 Check 的结果进行改善，有时候也用Adjust来解释这个 A，更准确的表达了修正改善的意思。
 
@@ -1273,7 +1289,7 @@ MJ 老师建议的投资比例为
 
 PDCA 循环不仅可以用在企业产品的质量改进方面，也可用在我们个人提升上。我们所说的认知迭代，就需要先通过学习对某件事情有了基本概念，这就是 Plan ；然后将这个概念在实践中应用起来，也即 Do，也就是先生所说的「践行」；然后对践行反馈进行检查反思，便是 Check，也即曾子所云的「日三省吾身」。想要快速迭代，最好的办法就是争取做到每件事情都能有所收获，检视这个环节可以让我们总结出好的方面好以后进一步加强，坏的方面好在下一次改进；Act 便是在下一次或下一步里面再次践行。通过这样不断的实施 PDCA 循环，完成个人认知的升级。
 
-## 9.10. SWOT分析
+## 9.9. SWOT分析
 
 SWOT 分析（SWOT Analysis） 是Albert Humphrey于1964年所提出来的一个框架，意思是强弱危机分析，是一种企业竞争态势分析方法，也是市场营销的基础分析方法之一。通过优劣和内外两个维度创造的矩阵，在优势（Strengths）、劣势（Weaknesses）、竞争市场上的机会（Opportunities）和威胁（Threats）四个方面，对企业进行深入全面的分析及定位。
 
@@ -1283,7 +1299,7 @@ SWOT 分析（SWOT Analysis） 是Albert Humphrey于1964年所提出来的一个
 
 仔细反思一下就会发现，我们很多时候对自己的优势还算有把握，对劣势却不一定明了，或者即使知道也只是回避，没有真正思考过它的影响或解决方案；有了机会就跃跃欲试，但外界环境变化造成的威胁却总是视而不见。就像之前写过的，很多年纪大的同志不愿意接受信息时代的到来，拒绝学习电脑知识，结果让社会的变化变成了自己职业生涯的威胁。常常思考一下未来可能发生的事情，这些事情可能引起的改变，会让我们尽可能的为未来做好准备，活在未来。
 
-## 9.11. SMART原则
+## 9.10. SMART原则
 
 SMART原则是目标管理中的一种方法，由管理学大师彼得·杜拉克于1954年首先提出。SMART原则中的“S”、“M”、“A”、“R”、“T”五个字母分别对应了五个英文单词：
 
@@ -1307,16 +1323,158 @@ Time-bound（时限性）讲的是时间管理。现在越来越感觉到，无�
 
 所以下次给自己制定一些目标的时候，学编程也好，读本书也好，不妨对照着 SMART 原则看看，自己是不是制定了一个好的目标？
 
-# 10. 附录
+# 10. 常用工具及软件
 
-## 10.1. 一些关键数据
+好的工具是一种生活方式。
 
-### 10.1.1. 散户的收益率
+## 10.1. 硬件类
+
+- iMac。2013年8月份购买，一直用到现在，无比流畅。在免于维护系统上节省的时间，足够把高昂的价格抵回来了；
+- iPhone。一入苹果深似海，从此它机是路人；
+- kindle。单反穷三代，kindle富一生；
+- 小米扫地机器人。剥削机器，解放自己；
+
+## 10.2. 应用工具
+
+- [Alfred](https://www.alfredapp.com/)是Spotlight的增强版，是Mac必备。付费版功能更多，不过目前没有工作，能省就省，等牛市赚到钱一定买一个；
+- [Everything](https://www.voidtools.com/zh-cn/)，Windows平台文件搜索神器；
+- [Total Commander](https://www.ghisler.com/)，Windows平台文件管理神器；
+- Excel，Microsoft Office系列里面最佳软件，电脑上的万能工具，一定要用好用熟；
+- [LibreOffice](https://www.libreoffice.org/)是Microsoft Office的极佳替代品。其实如果One Drive可用，用Office Online更佳；
+- [Enpass](https://www.enpass.io/)，密码工具，还可以用来存储各类机密信息；
+- [坚果云](https://www.jianguoyun.com/)，国内最佳网盘，用来存放重要文件，所有东西尽在云端；
+- [百度网盘](https://pan.baidu.com/)，用来搜集和共享一些资料，非常方便；
+- [Magnet for Mac](http://magnet.crowdcafe.com/)解决了Mac系统窗口管理的问题，配合快捷键操作如行云流水；
+- [calibre](https://calibre-ebook.com/)是世界上最好的电子书管理软件。配合[DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools)移除kindle版本的限制，堪称完美；
+- [Sigil](https://sigil-ebook.com/)，ePub编辑工具；
+- [kindle](https://www.amazon.cn/gp/digital/fiona/kcp-landing-page/ref=sv_kinc_2)在，书未老；
+- [Lantern VIP](https://github.com/getlantern/lantern/releases/tag/latest)，欢迎填写邀请码 XX6CYU，每人额外赠送3个月时长；
+- [Avast](https://www.avast.com/index#mac)。Mac系统也有中毒的可能。保持良好的上网习惯，免费的Avast足矣。
+- [The Unarchiver](https://macpaw.com/the-unarchiver)，极好的解压工具，尤其喜欢它解压后自动删除压缩文件的功能。
+- [Grammarly](https://app.grammarly.com/)，英文写作工具；
+- [印象笔记](https://www.yinxiang.com/)，正在逐渐脱离中；
+- [Outlook](https://outlook.live.com/)。为了Gmail也是操碎了心，目前来看Outlook是唯一可以稳定收发Gmail的选择，163/QQ/Aliyun都非上选；
+- [Workflow](https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8)已被苹果收购，iPhone手机杀手级应用；
+- [Launcher](https://itunes.apple.com/us/app/launcher-with-multiple-widgets/id905099592?mt=8)，手机端快捷启动；
+- [Day Matters](https://itunes.apple.com/us/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter/id406170251?mt=8)，帮你记住重要日子；
+- [名片全能王](https://itunes.apple.com/us/app/camcard-business-card-scanner/id349447615?mt=8)，收藏名片流畅自如；
+- [坚果云扫描](https://itunes.apple.com/cn/app/scan-paper/id1377121820?l=en&mt=8)，电子化文档必备工具；
+- [Double Commander](https://doublecmd.sourceforge.io/)，Mac系统下文件管理软件；
+- [搜狗输入法 for Mac](https://pinyin.sogou.com/mac/)，虽然多年不更新，但按`Tab`键后的辅助码依然是杀手级功能。采用自然码做双拼方案，通用性好，还避免了微软双拼的分号问题。百度输入法，加油啊；
+- [Focus Time](https://itunes.apple.com/cn/app/id340156917?mt=8)，超好用的番茄钟；
+
+## 10.3. 学习工具
+
+- [Anki](https://apps.ankiweb.net/)堪称第二大脑，学习神器。背单词必备工具。多平台软件，注册账号后可同步数据。桌面端、网页端免费，手机端付费；
+- [每日英语听力](https://itunes.apple.com/us/app/id570118289?mt=8)，真心好的一款英语听力软件；
+- [‎欧路英语词典](https://itunes.apple.com/cn/app/id367278030?mt=8)，词源解释助力记单词无敌；
+- [‎Merriam-Webster Dictionary Pro](https://itunes.apple.com/cn/app/id478126577?mt=8)，最权威的美式发音词典；
+- [Mathpix Snip](https://mathpix.com/)，公式图片转$\LaTeX$工具；
+- [Coursera](https://www.coursera.org/)，在线教育网站；
+- [网易公开课](https://open.163.com/)，不解释；
+- [Khan Academy](https://www.khanacademy.org/)，可汗学院；
+- [中国大学MOOC(慕课)](https://www.icourse163.org/)，好多大学课程；
+- [优达学城 (Udacity)](https://cn.udacity.com/), 传授硅谷的名企官方课程；
+- [edX](https://www.edx.org/)，国外名校在线课程；
+
+## 10.4. 开发工具
+
+- [Visual Studio Code](https://code.visualstudio.com/)，业余编程首选；
+- [Dash](https://kapeli.com/dash)何止是有用，简直是必须。免费版不够，还需要购买付费版才过瘾。
+- [Git](https://git-scm.com/)肯定是要装的。Mac下不用再到官网上下载，打开Terminal，输入`git`，系统就会提示安装命令行工具了。
+- [Anaconda](https://anaconda.org/)一次性解决各种第三方包，包括pandas和matplotlib。
+- [Oracle VM VirtualBox](https://www.virtualbox.org/)可以模拟多系统，开发必备；
+
+## 10.5. 图像及设计工具
+
+- 手绘，然后拍照。万能大法，最直接，应用范围最广，只是不方便修改；
+- [LibreOffice Draw](https://www.libreoffice.org/)，功能多，适应范围广，日常应用足以应付。跨平台，Windows和Mac下都可以用。可以导出多种图片格式，满足各种应用；
+- [ProcessOn](https://www.processon.com/)，在线流程图应用，没有比这个更好的流程图工具了。遗憾的是免费空间有点少，；
+- [亿图图示](https://www.edrawsoft.com/cn/edraw-max.php)，亿图图示专家是一款综合图形图表制作软件，它包含丰富的实例和模版，帮助您轻松创建流程图、网络拓扑图、组织结构图、商业图表、工程图，思维导图、软件设计图和平面布局图等。免费，跨平台；
+- PPT类软件。PowerPoint、Keynote、LibreOffice Impress等，都有基本的绘图功能，可以用来进行简单图示创作；
+- Matplotlib，用数据生成图表的首选。难度较大，但值得拥有；
+- [XMind](https://www.xmind.net/)，主打思维导图，也可以做简单的结构图。简单易用，免费，跨平台；
+- [亿图图示](https://www.edrawsoft.com/cn/edraw-max.php)，全类型图形图表设计软件；
+- [Pencil Project](https://pencil.evolus.vn/)，免费跨平台图示工具；
+- [Canva](https://www.canva.com/)，在线平面设计工具；
+- [文图](https://wentu.io/)，在线图表制作工具；
+- [Pexels](https://www.pexels.com/)，免费图片社区；
+
+### 10.5.1. 函数曲线，数据优美的表达方法
+
+李笑来先生《新生——七年就是一辈子》里第一篇文章就是「人生最重要的概念：复利」，用很长的篇幅讲述了复利的概念。复利是个纯数学概念，公式为
+
+![](assets/compound-interest-formula.png)
+
+文字也好，数字也罢，虽然可以精准的表述出其概念，但在直观性上总是会差那么一点点。这时候函数曲线就可以派上用场了。复利曲线直接了当的说明了随着时间的增长，收益会以极快的速度增长这个概念，使其极具冲击性。
+
+![](assets/compound-interest.png)
+
+其实回想一下中学数学就可以知道，解析几何就是在用图像来说明函数。各种函数都可以在坐标系里用一条曲线或线段来表示，我们用图像可以明确的看出变化趋势，求解的过程就是寻找曲线交点的过程……函数曲线是帮助我们理解复杂枯燥的数学概念的一个极重要的武器。
+
+生活中能用到纯理论的数学函数的地方不会太多，但每次遇到的时候，都不妨画一条函数曲线试试。只要给出函数定义，很多计算机软件都能非常容易的绘制出曲线。SpeQ、MathCAD 等软件都非常好用。
+
+以上诸工具，均满足免费、跨平台的要求，可满足绝大多数要求。以后不用再在找制图软件上浪费时间了。
+
+## 10.6. 在线工具
+
+- [Microsoft To-Do](https://to-do.microsoft.com/)，GTD工具；
+- [LinkedIn](https://www.linkedin.com/feed/)，职场网络；
+- [GitHub](https://github.com/)，世界上最聪明的大脑集散地；
+- [Internet Archive](https://archive.org/)，互联网世界时光穿梭机；
+- [腾讯文档](https://docs.qq.com/desktop/mydoc)，解决[LibreOffice](https://www.libreoffice.org/)太过缓慢的问题；
+- [天眼查](https://www.tianyancha.com/)，企业信用数据，一站打尽；
+- [企查查](http://www.qichacha.com/)，全国企业信用信息公示系统数据；
+- [幕布](http://mubu.com/)，大纲笔记及思维导图工具；
+- [Smallpdf.com - A Free Solution to all your PDF Problems](https://smallpdf.com/)，在线压缩PDF文档很方便；
+
+## 10.7. 亲子工具
+
+- [‎AdBlock for Mobile](https://itunes.apple.com/cn/app/adblock-for-mobile/id1036484810?mt=8)，保护孩子，远离垃圾广告的侵扰；
+- [Scratch - Imagine, Program, Share](https://scratch.mit.edu/),MIT出品的儿童编程工具；
+- [Code.org](https://studio.code.org/home)，上佳儿童编程工具；
+
+## 10.8. 投资工具
+
+- [imToken钱包](https://token.im/)，数字货币钱包；
+- [Cobo Wallet](https://itunes.apple.com/us/app/id1406282615?mt=8)，可以POS赚币的钱包。不过安全性是个问题；
+- [‎Delta](https://itunes.apple.com/cn/app/id1288676542?l=en&mt=8P)，加密货币记账包；
+- [MyToken](https://itunes.apple.com/us/app/mytoken/id1271352380?mt=8)，行情软件，用久了就一直留着了。感觉和其他软件相比也并没有太出色的地方，习惯了懒得换罢；
+
+## 10.9. 其它工具
+
+- 美好生活少不了电影，[IINA](https://lhc70000.github.io/iina/zh-cn/)号称现代的 macOS 视频播放器，使用起来的确很赞，推荐。
+- [‎HIIT-Timer](https://itunes.apple.com/cn/app/h-i-i-t-timer/id391275156?l=en&mt=8)，TABATA健身工具；
+- [‎Keep](https://itunes.apple.com/cn/app/keep/id952694580?l=en&mt=8)，地球上最好的运动软件；
+- [‎得到](https://itunes.apple.com/cn/app/id1016323413?l=en&mt=8)，知识就在得到；
+
+### 10.9.1. 社群推荐的翻墙资源
+
+1. [Lantern VIP](https://github.com/getlantern/lantern)。这是我现在在用的，欢迎填写邀请码 XX6CYU，每人额外赠送3个月时长；
+2. 多态；
+3. 云梯；
+4. Astrill VPN；
+5. [SEED - 简单好用：在 App Store 上的内容](https://itunes.apple.com/cn/app/id1275872827?mt=8)
+
+## 10.10. 工具调整记录
+
+- 2019-04-21把双拼方案从微软双拼改成了自然码。
+  - 谷歌Gboard里面，微软双拼的分号没法输入；
+  - 自然码应用范围也很广，暂定自然码，以后实在需要的时候切换也方便；
+- 2019-04-13把GTD工具从Teambition换成了Microsoft To-do。
+  - Teambition的搜索功能很让人奔溃，搜索结果不区分完成和未完成，面对大量事件的时候表现失败；
+  - Microsoft To-Do有导出功能，数据真正属于用户。以后万一需要迁移数据，Teambition会非常麻烦，而Microsoft To-Do会很方便。这类工具软件用的时间越久迁移成本越高，所以没有导入导出功能的软件应该谨慎使用；
+
+# 11. 附录
+
+## 11.1. 一些关键数据
+
+### 11.1.1. 散户的收益率
 在过去200年左右的时间里，散户在股市上获得的平均回报只有2%左右，远远低于股市增长的平均值。
 
 既然连股市的平均值都达不到，最保守的策略应该就是买指数了。
 
-### 10.1.2. 常见投资品的收益率
+### 11.1.2. 常见投资品的收益率
 
 [中国银保监会主席郭树清在“2018陆家嘴论坛”上曾说](https://mp.weixin.qq.com/s/8HNvfzutcfXkU_YboDkAnw)
 
@@ -1324,7 +1482,7 @@ Time-bound（时限性）讲的是时间管理。现在越来越感觉到，无�
 
 这一番话，可以说是对所有普通投资者的一个警示。
 
-## 10.2. 推荐书单
+## 11.2. 推荐书单
 
 阳志平先生谈到读书时，把书分为坏书、可用的书、力作、杰作与神作五类。他建议多读神作与杰作，但还是应该以自己当下实力为界。步子迈得太大容易扯着淡。就像一开始就读《黑天鹅》、《非对称性风险》之类书籍，容易直接把人引歪了。以下书单是我推荐的一些佳作。
 
@@ -1339,7 +1497,7 @@ Time-bound（时限性）讲的是时间管理。现在越来越感觉到，无�
 - [《理性乐观派》](https://book.douban.com/subject/6913343/)，马特·里德利
 - [《学习之道》](https://book.douban.com/subject/26895988/)，芭芭拉·奥克利
 
-## 10.3. 待学习清单
+## 11.3. 待学习清单
 
 目前想要学习的一些东西，整理清单如下
 
@@ -1348,12 +1506,12 @@ Time-bound（时限性）讲的是时间管理。现在越来越感觉到，无�
 - 粤语；
 - 概率与统计；
 
-## 10.4. 在学习清单
+## 11.4. 在学习清单
 
 - GitHub；
 - 线性代数；
 
-## 10.5. 克制清单
+## 11.5. 克制清单
 
 尼采有句话说的非常好
 
@@ -1367,123 +1525,6 @@ Time-bound（时限性）讲的是时间管理。现在越来越感觉到，无�
 - 项目管理软件筛选；
 - 学习Linux。暂时没用，无论是工作中还是生活中都用不着。所以应先搁置；
 - 学习JavaScript或其他编程语言。与其在那些事情上花时间，不如先把Python学好；
-
-## 10.6. 常用工具及软件
-
-好的工具是一种生活方式。
-
-### 10.6.1. 应用工具
-
-- [Alfred](https://www.alfredapp.com/)是Spotlight的增强版，是Mac必备。付费版功能更多，不过目前没有工作，能省就省，等牛市赚到钱一定买一个；
-- [LibreOffice](https://www.libreoffice.org/)是Microsoft Office的极佳替代品。其实如果One Drive可用，用Office Online更佳；
-- [Enpass](https://www.enpass.io/)，密码工具，还可以用来存储各类机密信息；
-- [坚果云](https://www.jianguoyun.com/)用来存放重要文件，所有东西尽在云端；
-- [百度网盘](https://pan.baidu.com/)，用来搜集和共享一些资料，非常方便；
-- [Magnet for Mac](http://magnet.crowdcafe.com/)解决了Mac系统窗口管理的问题，配合快捷键操作如行云流水；
-- [calibre](https://calibre-ebook.com/)是世界上最好的电子书管理软件。配合[DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools)移除kindle版本的限制，堪称完美；
-- [Sigil](https://sigil-ebook.com/)，ePub编辑工具；
-- [kindle](https://www.amazon.cn/gp/digital/fiona/kcp-landing-page/ref=sv_kinc_2)在，书未老；
-- [Lantern VIP](https://github.com/getlantern/lantern/releases/tag/latest)，欢迎填写邀请码 XX6CYU，每人额外赠送3个月时长；
-- [Avast](https://www.avast.com/index#mac)。Mac系统也有中毒的可能。保持良好的上网习惯，免费的Avast足矣。
-- [The Unarchiver](https://macpaw.com/the-unarchiver)，极好的解压工具，尤其喜欢它解压后自动删除压缩文件的功能。
-- [亿图图示](https://www.edrawsoft.com/cn/edraw-max.php)，全类型图形图表设计软件；
-- [Grammarly](https://app.grammarly.com/)，英文写作工具；
-- [印象笔记](https://www.yinxiang.com/)，正在逐渐脱离中；
-- [Outlook](https://outlook.live.com/)。为了Gmail也是操碎了心，目前来看Outlook是唯一可以稳定收发Gmail的选择，163/QQ/Aliyun都非上选；
-- [Workflow](https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8)已被苹果收购，iPhone手机杀手级应用；
-- [Launcher](https://itunes.apple.com/us/app/launcher-with-multiple-widgets/id905099592?mt=8)，手机端快捷启动；
-- [Day Matters](https://itunes.apple.com/us/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter/id406170251?mt=8)，帮你记住重要日子；
-- [名片全能王](https://itunes.apple.com/us/app/camcard-business-card-scanner/id349447615?mt=8)，收藏名片流畅自如；
-- [坚果云扫描](https://itunes.apple.com/cn/app/scan-paper/id1377121820?l=en&mt=8)，电子化文档必备工具；
-- [Double Commander](https://doublecmd.sourceforge.io/)，Mac系统下文件管理软件；
-- [搜狗输入法 for Mac](https://pinyin.sogou.com/mac/)，虽然多年不更新，但按`Tab`键后的辅助码依然是杀手级功能。采用自然码做双拼方案，通用性好，还避免了微软双拼的分号问题。百度输入法，加油啊；
-
-### 10.6.2. 学习工具
-
-- [Anki](https://apps.ankiweb.net/)堪称第二大脑，学习神器。背单词必备工具。多平台软件，注册账号后可同步数据。桌面端、网页端免费，手机端付费；
-- [每日英语听力](https://itunes.apple.com/us/app/id570118289?mt=8)，真心好的一款英语听力软件；
-- [‎欧路英语词典](https://itunes.apple.com/cn/app/id367278030?mt=8)，词源解释助力记单词无敌；
-- [‎Merriam-Webster Dictionary Pro](https://itunes.apple.com/cn/app/id478126577?mt=8)，最权威的美式发音词典；
-- [Mathpix Snip](https://mathpix.com/)，公式图片转$\LaTeX$工具；
-- [Coursera](https://www.coursera.org/)，在线教育网站；
-- [网易公开课](https://open.163.com/)，不解释；
-- [Khan Academy](https://www.khanacademy.org/)，可汗学院；
-- [中国大学MOOC(慕课)](https://www.icourse163.org/)，好多大学课程；
-- [优达学城 (Udacity)](https://cn.udacity.com/), 传授硅谷的名企官方课程；
-- [edX](https://www.edx.org/)，国外名校在线课程；
-
-### 10.6.3. 开发工具
-
-- [Visual Studio Code](https://code.visualstudio.com/)，业余编程首选；
-- [Dash](https://kapeli.com/dash)何止是有用，简直是必须。免费版不够，还需要购买付费版才过瘾。
-- [Git](https://git-scm.com/)肯定是要装的。Mac下不用再到官网上下载，打开Terminal，输入`git`，系统就会提示安装命令行工具了。
-- [Anaconda](https://anaconda.org/)一次性解决各种第三方包，包括pandas和matplotlib。
-- [Oracle VM VirtualBox](https://www.virtualbox.org/)可以模拟多系统，开发必备；
-
-### 10.6.4. 图像及设计工具
-
-- 手绘，然后拍照。万能大法，最直接，应用范围最广，只是不方便修改；
-- [LibreOffice Draw](https://www.libreoffice.org/)，功能多，适应范围广，日常应用足以应付。跨平台，Windows和Mac下都可以用。可以导出多种图片格式，满足各种应用；
-- [ProcessOn](https://www.processon.com/)，在线流程图应用，没有比这个更好的流程图工具了。遗憾的是免费空间有点少，；
-- [亿图图示](https://www.edrawsoft.com/cn/edraw-max.php)，亿图图示专家是一款综合图形图表制作软件，它包含丰富的实例和模版，帮助您轻松创建流程图、网络拓扑图、组织结构图、商业图表、工程图，思维导图、软件设计图和平面布局图等。免费，跨平台；
-- PPT类软件。PowerPoint、Keynote、LibreOffice Impress等，都有基本的绘图功能，可以用来进行简单图示创作；
-- Matplotlib，用数据生成图表的首选。难度较大，但值得拥有；
-- [XMind](https://www.xmind.net/)，主打思维导图，也可以做简单的结构图。简单易用，免费，跨平台；
-- [Pencil Project](https://pencil.evolus.vn/)，免费跨平台图示工具；
-- [Canva](https://www.canva.com/)，在线平面设计工具；
-- [文图](https://wentu.io/)，在线图表制作工具；
-- [Pexels](https://www.pexels.com/)，免费图片社区；
-
-以上诸工具，均满足免费、跨平台的要求，可满足绝大多数要求。以后不用再在找制图软件上浪费时间了。
-
-### 10.6.5. 在线工具
-
-- [Microsoft To-Do](https://to-do.microsoft.com/)，GTD工具；
-- [LinkedIn](https://www.linkedin.com/feed/)，职场网络；
-- [GitHub](https://github.com/)，世界上最聪明的大脑集散地；
-- [Internet Archive](https://archive.org/)，互联网世界穿梭机；
-- [腾讯文档](https://docs.qq.com/desktop/mydoc)，解决[LibreOffice](https://www.libreoffice.org/)太过缓慢的问题；
-- [天眼查](https://www.tianyancha.com/)，企业信用数据，一站打尽；
-- [企查查](http://www.qichacha.com/)，全国企业信用信息公示系统数据；
-- [幕布](http://mubu.com/)，大纲笔记及思维导图工具；
-- [Smallpdf.com - A Free Solution to all your PDF Problems](https://smallpdf.com/)，在线压缩PDF文档很方便；
-
-### 10.6.6. 亲子工具
-
-- [‎AdBlock for Mobile](https://itunes.apple.com/cn/app/adblock-for-mobile/id1036484810?mt=8)，保护孩子，远离垃圾广告的侵扰；
-- [Scratch - Imagine, Program, Share](https://scratch.mit.edu/),MIT出品的儿童编程工具；
-- [Code.org](https://studio.code.org/home)，上佳儿童编程工具；
-
-### 10.6.7. 投资工具
-
-- [imToken钱包](https://token.im/)，数字货币钱包；
-- [Cobo Wallet](https://itunes.apple.com/us/app/id1406282615?mt=8)，可以POS赚币的钱包。不过安全性是个问题；
-- [‎Delta](https://itunes.apple.com/cn/app/id1288676542?l=en&mt=8P)，加密货币记账包；
-- [MyToken](https://itunes.apple.com/us/app/mytoken/id1271352380?mt=8)，行情软件，用久了就一直留着了。感觉和其他软件相比也并没有太出色的地方，习惯了懒得换罢；
-
-### 10.6.8. 其它工具
-
-- 美好生活少不了电影，[IINA](https://lhc70000.github.io/iina/zh-cn/)号称现代的 macOS 视频播放器，使用起来的确很赞，推荐。
-- [‎HIIT-Timer](https://itunes.apple.com/cn/app/h-i-i-t-timer/id391275156?l=en&mt=8)，TABATA健身工具；
-- [‎Keep](https://itunes.apple.com/cn/app/keep/id952694580?l=en&mt=8)，地球上最好的运动软件；
-- [‎得到](https://itunes.apple.com/cn/app/id1016323413?l=en&mt=8)，知识就在得到；
-
-### 10.6.9. 社群推荐的翻墙资源
-
-1. [Lantern VIP](https://github.com/getlantern/lantern)。这是我现在在用的，欢迎填写邀请码 XX6CYU，每人额外赠送3个月时长；
-2. 多态；
-3. 云梯；
-4. Astrill VPN；
-5. [SEED - 简单好用：在 App Store 上的内容](https://itunes.apple.com/cn/app/id1275872827?mt=8)
-
-### 10.6.10. 工具调整记录
-
-- 2019-04-21把双拼方案从微软双拼改成了自然码。
-  - 谷歌Gboard里面，微软双拼的分号没法输入；
-  - 自然码应用范围也很广，暂定自然码，以后实在需要的时候切换也方便；
-- 2019-04-13把GTD工具从Teambition换成了Microsoft To-do。
-  - Teambition的搜索功能很让人奔溃，搜索结果不区分完成和未完成，面对大量事件的时候表现失败；
-  - Microsoft To-Do有导出功能，数据真正属于用户。以后万一需要迁移数据，Teambition会非常麻烦，而Microsoft To-Do会很方便。这类工具软件用的时间越久迁移成本越高，所以没有导入导出功能的软件应该谨慎使用；
 
 *****
 

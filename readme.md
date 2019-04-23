@@ -23,4 +23,4 @@ title: ReadMe
 - 微信公众号：DongTalks
 - ![](assets/gmail.com.png)
 
-本博客仓库地址为 https://github.com/jetorz/millions，如有改进建议，欢迎Pull Request。
+本博客仓库地址为 https://github.com/jetorz/millions 。如有改进建议，欢迎Pull Request。
