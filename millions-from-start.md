@@ -971,7 +971,6 @@ Anki是学习神器，好好利用将其变成第二个大脑。尤其重要的�
 
 ### 2.3.12. 睡前复习
 
-
 ### 2.3.13. 妙用记忆术
 
 #### 2.3.13.1. 视觉图像助记
@@ -1140,7 +1139,7 @@ Feynman Technique到底是什么东西呢？其实应该本质上来说：是以
 
 进入到[Gold]里面，反复回味。
 
-#### 2.4.5.3. 下一步行动bu
+#### 2.4.5.3. 下一步行动
 
 不能引发行动的阅读价值不大。
 
@@ -1810,44 +1809,6 @@ $$
 另外一个优势，就是小公司成本低，所以对收益的要求也低，可以找大公司不屑于做的市场。比如一个一年50万利润的市场，腾讯是不可能去做的，但我们就可以去做。
 
 所以问题的关键，不在于怎么去对抗大公司的优势，而在于如何利用好小公司自己的优势。
-
-## 5.2. 新媒体运营
-
-### 5.2.1. 大节点连接
-
-寻找大节点，与大节点发生连接，从而扩大自己的影响力。
-
-案例：金马、左撇子谭杰之于李笑来。
-
-### 5.2.2. 用户画像
-
-你的用户是谁？他们有什么特点？他们想要的是什么？你能给他们提供什么？
-
-比如，以香港生活为主的定位，就是一个细分领域。
-
-### 5.2.3. 内容传播
-
-矩阵化运营。
-
-- 知乎；
-- 简书；
-- 公众号；
-- Sohu；
-- 微博；
-- 贴吧；
-- 今日头条；
-
-#### 5.2.3.1. 微博
-
-记得添加话题。
-
-### 5.2.4. 内容运营
-
-- 香港；
-- 汽车；
-- 人物；
-- 教育；
-- 跨境游；
 
 # 6. 职场
 
@@ -4414,6 +4375,111 @@ Version: 0.1.6
 Publisher: Albert Romkes
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=albert.TabOut
 
+## 13.5. 项目管理
+
+- [Microsoft Office系列](https://www.office.com)。Excel、Word这些工具都是绝佳的项目管理工具，因为项目管理更多的是思路，而不是软件；
+- [GitHub Projects](https://github.com/jetorz?tab=projects)，限于电脑端网页版应用，没有日程管理，而且需要和GitHub紧密结合才好。所以暂时应该不会用到；
+- [TeamGantt](https://www.teamgantt.com/)，在线项目管理工具；
+
+## 13.6. 文档处理
+
+- [Excel](https://office.live.com/start/Excel.aspx)，很多时候都觉得自己低估Excel了，就提醒自己Excel很强大。但过段时间会发现，自己依然低估她了……
+- [LibreOffice](https://www.libreoffice.org/)是Microsoft Office的极佳替代品。其实如果One Drive可用，用Office Online更佳。而且，以后要放弃对所谓开源精神的追求，统一用Microsoft Office文档格式保存所有文件；
+- [calibre](https://calibre-ebook.com/)是世界上最好的电子书管理软件。配合[DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools)移除kindle版本的限制，堪称完美；
+- [Sigil](https://sigil-ebook.com/)，ePub编辑工具；
+- [kindle](https://www.amazon.cn/gp/digital/fiona/kcp-landing-page/ref=sv_kinc_2)在，书未老；
+- [Grammarly](https://app.grammarly.com/)，英文写作工具；
+- [印象笔记](https://www.yinxiang.com/)，正在逐渐脱离中；
+- [Outlook](https://outlook.live.com/)。为了Gmail也是操碎了心，目前来看Outlook是唯一可以稳定收发Gmail的选择，163/QQ/Aliyun都非上选；
+- [坚果云扫描](https://itunes.apple.com/cn/app/scan-paper/id1377121820?l=en&mt=8)，电子化文档必备工具；
+- [Markdown](https://daringfireball.net/projects/markdown/)，纯文本写作；
+
+## 13.7. 学习工具
+
+- [Anki](https://apps.ankiweb.net/)堪称第二大脑，学习神器。背单词必备工具。多平台软件，注册账号后可同步数据。桌面端、网页端免费，手机端付费；
+- [Mathpix Snip](https://mathpix.com/)，公式图片转$\LaTeX$工具；
+- [Focus Time](https://itunes.apple.com/cn/app/id340156917?mt=8)，超好用的番茄钟；
+- [Notability](https://itunes.apple.com/cn/app/notability/id360593530?mt=8)，iOS上最佳学习笔记软件；
+- [Type IPA phonetic symbols](https://ipa.typeit.org/)，IPA国际音标输入网站；
+- [International Phonetic Alphabet](http://www.internationalphoneticalphabet.org/)，国际音标网站。维基百科上不去，不确定是否为IPA官网。提供的一些工具很好用；
+- [Procreate](https://itunes.apple.com/us/app/procreate-sketch-paint-create./id425073498?mt=8)，iPad绘图软件；
+- [pythonista](https://itunes.apple.com/us/app/pythonista-3/id1085978097?ls=1&mt=8)，iOS上的Python平台；
+- [iData-知识检索](https://www.cn-ki.net/)，学术搜索平台；
+- [虫部落](https://search.chongbuluo.com/)，搜索快人一步；
+- [Overleaf](https://www.overleaf.com/project)，Online LaTeX Editor；
+- [Codecogs](http://latex.codecogs.com/eqneditor/editor.php)，Online LaTeX Equation Editor；
+- [Draft2Digital](https://draft2digital.com/)，自出版即Word转epub、mobi格式工具；
+
+### 13.7.1. 英语学习
+
+- [每日英语听力](https://itunes.apple.com/us/app/id570118289?mt=8)，真心好的一款英语听力软件；
+- [‎欧路英语词典](https://itunes.apple.com/cn/app/id367278030?mt=8)，词源解释助力记单词无敌；
+- [‎Merriam-Webster Dictionary Pro](https://itunes.apple.com/cn/app/id478126577?mt=8)，最权威的美式发音词典；
+- [Test Your Vocabulary](http://testyourvocab.com/)，词汇量测试；
+
+### 13.7.2. 在线公开课
+
+- [Coursera](https://www.coursera.org/)，在线教育网站；
+- [优达学城 (Udacity)](https://cn.udacity.com/), 传授硅谷的名企官方课程；
+- [edX](https://www.edx.org/)，国外名校在线课程；
+- [Khan Academy](https://www.khanacademy.org/)，可汗学院；
+- [网易公开课](https://open.163.com/)，不解释；
+- [中国大学MOOC(慕课)](https://www.icourse163.org/)，好多大学课程；
+- [学堂在线](http://www.xuetangx.com/)，国家精品课程在线学习平台；
+
+### 13.7.3. 电子书及其他资源
+
+- [火鸟books](http://www.kindlefree.net/)，电子书资源免费下载网站；
+- [我的小书屋](http://mebook.cc/)，最新最全电子书免费下载；
+- [好多书](http://booksk.com/)，收费下载网站；
+- [Jiumo Search 鸠摩搜索](https://www.jiumodiary.com/)，文档搜索引擎；
+- [bookset](https://bookset.me/?rating=douban)，精品电子书免费下载；
+- [周读](http://www.ireadweek.com/)，提供免费电子书下载；
+- [All IT eBooks](http://www.allitebooks.com/)，Free IT eBooks Download；
+- [SaltTiger](https://salttiger.com/)，IT相关电子书下载；
+- [计算机书籍控](http://bestcbooks.com/)，IT类图书下载；
+- [计算机 - PDF之家](http://pdfzj.cn/jsjyhlw/)，免费高清PDF电子书下载；
+- [itbook.download](https://itbook.download/)，免费IT计算机电子书下载网站；
+- [盘搜搜](http://www.pansoso.com/)，最好用的百度云搜索引擎；
+- [万千合集站](http://www.hejizhan.com/html/search)，最专业的学术类资源聚合导航站；
+- [小不点搜索](https://www.xiaobd.net/)，专注于百度云网盘、微盘、文库、在线视频网站的资源嗅探和搜索；
+
+## 13.8. 开发工具
+
+- [Visual Studio Code](https://code.visualstudio.com/)，业余编程首选；
+- [pandas-profiling · PyPI](https://pypi.org/project/pandas-profiling/);
+- [Dash](https://kapeli.com/dash)何止是有用，简直是必须。免费版不够，还需要购买付费版才过瘾。
+- [Git](https://git-scm.com/)肯定是要装的。Mac下不用再到官网上下载，打开Terminal，输入`git`，系统就会提示安装命令行工具了。
+- [Anaconda](https://anaconda.org/)一次性解决各种第三方包，包括pandas和matplotlib。
+- [Oracle VM VirtualBox](https://www.virtualbox.org/)可以模拟多系统，开发必备；
+
+## 13.9. 数学工具
+
+- Excel，Microsoft Office系列里面最佳软件，电脑上的万能工具，一定要用好用熟；
+- [LaTeX](https://www.latex-project.org/)。matplotlib作者说，「Perhaps the most widely used syntax for math expressions is from Donald Knuth's TeX typesetting system」，所以，我用LaTeX；
+
+## 13.10. 图像及设计工具
+
+- 手绘，然后拍照。万能大法，最直接，应用范围最广，只是不方便修改；
+- [金山文档](https://drive.wps.cn/latest)。突然发现WPS和Excel是最佳的图表生成工具……囧；
+- [Online Diagram Software & Visual Solution - Lucidchart](https://www.lucidchart.com/pages/)，在线图示制作工具；
+- [draw.io](https://www.draw.io/)，在线图示制作工具；
+- [LibreOffice Draw](https://www.libreoffice.org/)，功能多，适应范围广，日常应用足以应付。跨平台，Windows和Mac下都可以用。可以导出多种图片格式，满足各种应用；
+- [ProcessOn](https://www.processon.com/i/582f0ba2e4b0645c0ec2eece)，在线流程图应用，没有比这个更好的流程图工具了。遗憾的是免费空间有点少，；
+- PPT类软件。PowerPoint、Keynote、LibreOffice Impress等，都有基本的绘图功能，可以用来进行简单图示创作；
+- Matplotlib，用数据生成图表的首选。难度较大，但值得拥有；
+- [XMind](https://www.xmind.net/)，主打思维导图，也可以做简单的结构图。简单易用，免费，跨平台；
+- [Pencil Project](https://pencil.evolus.vn/)，免费跨平台图示工具；
+- [Canva](https://www.canva.com/)，在线平面设计工具；
+- [文图](https://wentu.io/)，在线图表制作工具；
+- [Pexels](https://www.pexels.com/)，免费图片社区；
+- [Pixabay](https://pixabay.com/)，免费图片社区；
+
+放弃的工具
+
+- [SmartDraw](https://cloud.smartdraw.com/)，必须付费；
+- [Creately](https://creately.com/)，国外图表制作工具，类型很多，有免费基本账号。但是只能导出为PNG/JPG格式，等于数据非用户所有，放弃；
+
 ## 13.4. 文件管理及系统
 
 - [Alfred](https://www.alfredapp.com/)是Spotlight的增强版，是Mac必备。付费版功能更多，不过目前没有工作，能省就省，等牛市赚到钱一定买一个；
@@ -4431,51 +4497,6 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=albert.
 - [Day Matters](https://itunes.apple.com/us/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter/id406170251?mt=8)，帮你记住重要日子；
 - [名片全能王](https://itunes.apple.com/us/app/camcard-business-card-scanner/id349447615?mt=8)，收藏名片流畅自如；
 - [搜狗输入法 for Mac](https://pinyin.sogou.com/mac/)，虽然多年不更新，但按`Tab`键后的辅助码依然是杀手级功能。采用自然码做双拼方案，通用性好，还避免了微软双拼的分号问题。百度输入法，加油啊；
-
-### 13.4.1. 函数曲线
-
-李笑来先生《新生——七年就是一辈子》里第一篇文章就是「人生最重要的概念：复利」，用很长的篇幅讲述了复利的概念。复利是个纯数学概念，公式为
-
-![](assets/compound-interest-formula.png)
-
-文字也好，数字也罢，虽然可以精准的表述出其概念，但在直观性上总是会差那么一点点。这时候函数曲线就可以派上用场了。复利曲线直接了当的说明了随着时间的增长，收益会以极快的速度增长这个概念，使其极具冲击性。
-
-![](assets/compound-interest.png)
-
-其实回想一下中学数学就可以知道，解析几何就是在用图像来说明函数。各种函数都可以在坐标系里用一条曲线或线段来表示，我们用图像可以明确的看出变化趋势，求解的过程就是寻找曲线交点的过程……函数曲线是帮助我们理解复杂枯燥的数学概念的一个极重要的武器。
-
-生活中能用到纯理论的数学函数的地方不会太多，但每次遇到的时候，都不妨画一条函数曲线试试。只要给出函数定义，很多计算机软件都能非常容易的绘制出曲线。SpeQ、MathCAD 等软件都非常好用。
-
-以上诸工具，均满足免费、跨平台的要求，可满足绝大多数要求。以后不用再在找制图软件上浪费时间了。
-
-### 13.4.2. 思维导图
-
-思维导图的两种主要用法
-
-- 把问题放中心，分散思考；
-- 把结论放中心，分散解释；
-
-分别对应思考和阐述。
-
-### 13.4.3. 散点图
-
-### 13.4.4. 折线图
-
-### 13.4.5. 条形图
-
-### 13.4.6. 水平条形图
-
-### 13.4.7. 堆叠条形图
-
-### 13.4.8. 维恩图
-
-### 13.4.9. 雷达图
-
-### 13.4.10. 注意事项
-
-1. 避免饼图。邪恶的饼图；
-2. 避免太多颜色。可能的情况下只用两到三种颜色；
-3. 简洁是美。去除一切可去除的元素，诸如坐标轴标、网格线等；
 
 ## 13.5. 在线工具
 
