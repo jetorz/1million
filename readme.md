@@ -19,5 +19,3 @@ title: ReadMe
 - 张利东@微信：jetorz
 
 本博客仓库地址为 https://github.com/jetorz/millions 。如有改进建议，欢迎Pull Request。
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
