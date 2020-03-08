@@ -10,7 +10,7 @@ title: ReadMe
 
 是以为题记。
 
-## 工作经历
+## 1.1. 工作经历
 
 十四年(2004~2018)国际大型项目工作经验，擅长项目管理、团队合作、跨国多文化合作。曾负责项目：
 
@@ -20,7 +20,7 @@ title: ReadMe
 - Vietnam, Duyen Hai Thermal Power Plant
 - Mainland of China, JiaMusi Coal Transport Project
 
-## 学习课程
+## 1.2. 学习课程
 
 出于对数据科学的热爱，2019年赴港攻读运筹学与商业统计专业硕士学位(Master of Science in Operational Research and Business Statistics)。擅长数据分析、机器学习、商业分析。
 
@@ -35,9 +35,9 @@ title: ReadMe
 - Big Data Analytics and Visualisation
 - Applied Time Series
 
-## 相关证书
+## 1.3. 相关证书
 
-- Machine Learning by Stanford University
+- [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/verify/T7UH2NE74MRJ)
 
 # 2. 与我联系
 
