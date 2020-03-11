@@ -5,14 +5,11 @@ title: ReadMe
 
 # 1. About Me
 
-- 内在驱动。追求自己内心真正渴望的东西；
-- 大时间周期积累。结硬寨，打呆仗，为人之所不能为；
+## 1.1. Work Experience
 
-是以为题记。
+14 years (2004~2018) International project working experience. Good at Project management, teamwork, multi-culture cooperates.
 
-## 1.1. 工作经历
-
-十四年(2004~2018)国际大型项目工作经验，擅长项目管理、团队合作、跨国多文化合作。曾负责项目：
+Previous projects:
 
 - Russia, Troitsk Powerplant Project
 - Bangladesh, Barapukuria Powerplant Project
@@ -20,9 +17,11 @@ title: ReadMe
 - Vietnam, Duyen Hai Thermal Power Plant
 - Mainland of China, JiaMusi Coal Transport Project
 
-## 1.2. 学习课程
+## 1.2. Courses
 
-出于对数据科学的热爱，2019年赴港攻读运筹学与商业统计专业硕士学位(Master of Science in Operational Research and Business Statistics)。擅长数据分析、机器学习、商业分析。
+Being loving data science for a long time, I finally made the decision, which is going to Hong Kong to learn Master of Science in Operational Research and Business Statistics. Now I am good at Data analysis, data mining, machine learning and business analysis.
+
+Courses learnt:
 
 - Simulation Modelling
 - Managing Organisational Performance
@@ -32,17 +31,17 @@ title: ReadMe
 - Prescriptive Analytics for Decision Making
 - Business Statistics with R
 - Machine Learning and Forecasting
-- Big Data Analytics and Visualisation
+- Big Data Analytics and Visualization
 - Applied Time Series
 
-## 1.3. 相关证书
+## 1.3. Certificate
 
 - [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/verify/T7UH2NE74MRJ)
 
-# 2. 与我联系
+![](assets\Coursera-Machine-Learning.png)
+
+# 2. Contact Me
 
 - [jetorz@GitHub](https://github.com/jetorz)
-- [张利东@LinkedIn](https://www.linkedin.com/in/zhanglidong/)
+- [ZHANG Lidong@LinkedIn](https://www.linkedin.com/in/zhanglidong/)
 - 张利东@微信：jetorz
-
-本博客仓库地址为 https://github.com/jetorz/millions 。如有改进建议，欢迎Pull Request。
