@@ -1017,7 +1017,7 @@ Anki是学习神器，好好利用将其变成第二个大脑。尤其重要的�
 - B: Banana
 - C: Cat
 - D: Dog
-- E: Eat
+- E: Elephant
 - F: Fire
 - G: Goose
 - H: Height
