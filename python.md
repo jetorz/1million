@@ -511,7 +511,7 @@ print('**********git push done.**********')
 
 > Keep in mind that fancy indexing, unlike slicing, always copies the data into a new array.
 
-## 11.3. 的索引(indexing)和切片(slicing)
+## 11.3. 索引(indexing)和切片(slicing)
 
 下图为 NumPy 里面多为数组的典型示意。
 
@@ -528,9 +528,31 @@ Numpy 的索引，用分别索引和列表索引都可以，如下：
 
 ![](../assets/array2d-slicing.png)
 
-# 12. pandas
+# 12. Scipy
 
-## 12.1. 数据观察
+## 12.1. CDF, PDF and PPF
+
+PPF can be used to calculate the percentile of a certain distribution.
+
+For example, get t the percentile of t distribution
+
+`````python
+import scipy.stats as st
+p = st.t.ppf(0.95, 2)
+print(p)
+
+2.919985580355516
+`````
+
+和查表得到的一样
+
+![](assets\t-ppf.png)
+
+需要注意的是，一般t分布都是用alpha表示，但`ppf`用的`q`是1-alpha。
+
+# 13. pandas
+
+## 13.1. 数据观察
 
 数据观察常见函数如下：
 
@@ -543,7 +565,7 @@ Numpy 的索引，用分别索引和列表索引都可以，如下：
 - df.describe()，返回数据统计描述
 - df.plot(y='column')，打印 column 图表
 
-## 12.2. 数据索引和切片
+## 13.2. 数据索引和切片
 
 设 stock 为一个 DataFrame，其中 Date 为其index。常见索引和切片操作总结如下。
 
@@ -554,31 +576,31 @@ Numpy 的索引，用分别索引和列表索引都可以，如下：
 | 2017-06-05 | 154.34 | 154.45 | 153.46 | 153.93 | 25331662 |
 | 2017-06-06 | 153.90 | 155.81 | 153.78 | 154.45 | 26624926 |
 
-### 12.2.1. stock['column']
+### 13.2.1. stock['column']
 
 用 `stock['Close']` ，输出该列内容。
 
-### 12.2.2. stock.Column
+### 13.2.2. stock.Column
 
 用 `stock.Close` ，输出该列内容。
 
-### 12.2.3. stock['column']['index']
+### 13.2.3. stock['column']['index']
 
 用`stock['Close']['2017-06-01']`选择某一特定单元格。
 
-### 12.2.4. stock.Column['index']
+### 13.2.4. stock.Column['index']
 
 用 `stock.Close['2017-06-01']` 的方式选择某一特定单元格。
 
-### 12.2.5. stock.[Column][0]
+### 13.2.5. stock.[Column][0]
 
 用 stock['Close'][0]选择某一特定单元格。
 
-### 12.2.6. stock[['Column']]
+### 13.2.6. stock[['Column']]
 
 用列名组成list的方式选择某一列/某些列。比如 `stock[['Close']]` 或 `stock[['Close', 'Open']]`。
 
-### 12.2.7. 'column']
+### 13.2.7. 'column']
 
 用法：stock.loc['index', 'column']
 
@@ -588,13 +610,13 @@ Numpy 的索引，用分别索引和列表索引都可以，如下：
 
 用`loc`不仅可以索引，还可以赋值更改。
 
-### 12.2.8. columnNum]
+### 13.2.8. columnNum]
 
 使用 `.iloc` 可以通过指定行/列数选择特定数据，如 `stock.iloc[0:2, :]`，其中第一个参数为行，第二个参数为列。
 
 用`iloc`不仅可以索引，还可以赋值更改。
 
-### 12.2.9. col]
+### 13.2.9. col]
 
 `ix` 是一个比较灵活的选择方式，可以同时接收`loc`/`iloc` 的参数，甚至可以混在一起接受。而且赋值也可以更改，非常方便。
 
@@ -603,7 +625,7 @@ Numpy 的索引，用分别索引和列表索引都可以，如下：
 > However, when an axis is integer based, ONLY label based access and not positional access is supported. Thus, in such cases, it’s usually better to be explicit and use .iloc or .loc.  
 > [pandas.DataFrame.ix — pandas 0.20.3 documentation](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.ix.html?highlight=ix#pandas.DataFrame.ix)
 
-## 12.3. 过滤
+## 13.3. 过滤
 
 列数据可以直接比较，如 `stock.Volume > 5e7`，会把 Volumn 列的数据与后面的条件作比较，范围 True/False。
 
@@ -615,7 +637,7 @@ Numpy 的索引，用分别索引和列表索引都可以，如下：
 
 `stock[(stock.Close > stock.Open) | (stock.Volume > 5e7)]`
 
-## 12.4. 里面的数据
+## 13.4. 里面的数据
 
 如下。
 
@@ -628,7 +650,7 @@ def CleanDataFrame(datDF):
     return datDF
 ```
 
-## 12.5. Structures
+## 13.5. Structures
 
 Pandas 主要有三种数据结构如下
 
@@ -640,7 +662,7 @@ Dimensions | Name      | Description
 
 关于 Pandas 的数据结构，最好可以将高维数据理解为低维数据的容器。比如 DataFrame 是 Series 的容器，Panel 是 DataFrame 的容器。
 
-### 12.5.1. Series
+### 13.5.1. Series
 
 Series is a one-dimensional labeled array capable of holding any data type (integers, strings, floating point numbers, Python objects, etc.). The axis labels are collectively referred to as the index. The basic method to create a Series is to call:
 
@@ -656,7 +678,7 @@ The passed index is a list of axis labels.
 
 Series 感觉像一个高级点的 dict。
 
-### 12.5.2. DataFrame
+### 13.5.2. DataFrame
 
 DataFrame is a 2-dimensional labeled data structure with columns of potentially different types. You can think of it like a spreadsheet or SQL table, or a dict of Series objects. It is generally the most commonly used pandas object.
 
@@ -679,7 +701,7 @@ DataFrame 可以从这么多种输入里面建立，也就意味着有其复杂�
 
 简单理解的话，pandas 可以看成一个表格，用 index 作行、column 做列来索引数据。
 
-### 12.5.3. DataFrame
+### 13.5.3. DataFrame
 
 There are numerous ways to construct a DataFrame, though one of the most common is from a dict of equal-length lists or NumPy arrays
 ```
@@ -713,7 +735,7 @@ Out[39]:
 4  2002  Nevada  2.9
 ```
 
-### 12.5.4. Panel
+### 13.5.4. Panel
 
 Panel is a somewhat less-used, but still important container for 3-dimensional data. The term panel data is derived from econometrics and is partially responsible for the name pandas: pan(el)-da(ta)-s. The names for the 3 axes are
 intended to give some semantic meaning to describing operations involving panel data and, in particular, econometric analysis of panel data. However, for the strict purposes of slicing and dicing a collection of DataFrame objects, you
@@ -723,7 +745,7 @@ may find the axis names slightly arbitrary:
 - major_axis: axis 1, it is the index (rows) of each of the DataFrames
 - minor_axis: axis 2, it is the columns of each of the DataFrames
 
-## 12.6. 怎样对Series里的元素进行批量操作
+## 13.6. 怎样对Series里的元素进行批量操作
 
 pandas 讲究整体操作，想对里面的一些数据进行一些批量操作的时候，挨个用纯 Python 的方法，挨个遍历。这样简单是足够简单，但很不 pandasic。那有没有更为简单一些的办法呢？
 
@@ -821,11 +843,11 @@ Name: b, dtype: float64
 
 `lambda` 只能用于这种简单的情况，更复杂的操作可以干脆定义一个函数调用。话说我总觉得`lambda`有点多余，已经有功能更强大的函数了，为什么还要用它呢？仅仅是因为长得漂亮么？
 
-## 12.7. 怎样对DataFrame里的元素进行批量操作
+## 13.7. 怎样对DataFrame里的元素进行批量操作
 
 如何对DataFrame里面的元素进行批量操作呢？
 
-### 12.7.1. 操作
+### 13.7.1. 操作
 
 DataFrame 有个 `apply` 方法，就是把函数映射到 DataFrame 里面每个 Series 上，对 Series 进行操作。这个等于是第一次降维。
 
@@ -876,17 +898,17 @@ Oregon  0.14 -0.43  1.66
 
 Python 自带的 round 就可以接受 DataFrame 对象……情何以堪啊情何以堪，又是 `apply` 又是 `map` 甚至还用上 `lambda`，呵……
 
-### 12.7.2. 总结
+### 13.7.2. 总结
 
 今天我们讨论了如何对 DataFrame 进行降维操作，可以用`apply` 对 Series进行批量操作，也可用 `applymap`对元素进行批量操作。
 
 而实际上，很多原先只对简单对象如 int/float 之类操作的纯 Python 函数，居然也可以对 pandas 的 Series/DataFrame 进行操作，比如`abs`/`round` 之类。但对纯 Python 的 list 就不可以。
 
-## 12.8. 多级嵌套DataFrame操作
+## 13.8. 多级嵌套DataFrame操作
 
 多级索引(Hierarchical Index)的表格在我看来并不是一个好的表格。虽然给人的体验很好，但对机体验很不好，所以应该尽量避免。但处理外部数据的时候却总会遇到，比如描述统计量的杀手级武器 `describe()`，其返回结果就是一个多级索引的 DataFrame。所以还是得研究一下。
 
-### 12.8.1. 多级索引表格操作
+### 13.8.1. 多级索引表格操作
 
 多级索引表格的 index 是一个 `MultiIndex` 对象。MultiIndex的对象可以看成是一组由不同级级构成的一组 Tuple，可以用常见的方法索引之，比如`df.loc[('rowl1','rowl2'),'col1']`。很多函数中也会有`level` 选项，对应的就是这里的级级。比如`df.sum(level='LC',axis=1)`。
 
@@ -900,7 +922,7 @@ DataFrame.xs(key, axis=0, level=None, drop_level=True)
 
 比如要索引所有节点的均值，就可以用`dmean = df.xs('mean', axis=0, level=1)`这种方法。
 
-### 12.8.2. 扁平化多级索引
+### 13.8.2. 扁平化多级索引
 
 还是不是很喜欢多级索引……所以不妨将其改变之，比如变成单级索引。就比如对 STAAD Pro计算结果进行 describe 之后的结果
 
@@ -921,16 +943,16 @@ Node   item
 
 个人还是更喜欢这种方式……
 
-### 12.8.3. 来源
+### 13.8.3. 来源
 
 - [pandas.DataFrame.xs — pandas 0.20.3 documentation](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.xs.html)
 - [pandas.DataFrame.reset_index — pandas 0.20.3 documentation](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.reset_index.html)
 
-## 12.9. Python
+## 13.9. Python
 
 pandas 提及缺失数据的时候用的是 NA，numpy 用的是 NaN，Python 则有一个 None 的类型，它们三兄弟是什么关系呢？
 
-### 12.9.1. NA@pandas
+### 13.9.1. NA@pandas
 
 pandas 作者在《Python for Data Analysis》](https://book.douban.com/subject/10760444/) 里面谈到 missing data 的时候说
 
@@ -967,7 +989,7 @@ AttributeError: module 'pandas' has no attribute 'NA'
 
 所以，pandas 里面的 NA，更多是综合了 NaN 和 None 的一个概念上的表述。从 pandas 文档的众多示例来看，NA 应该是倾向于 NaN 更多一些。
 
-### 12.9.2. NaN@Numpy
+### 13.9.2. NaN@Numpy
 
 [NaN 的思想来源于 IEEE](https://en.wikipedia.org/wiki/NaN)，本意是表示「虽然在概念上是数据，但不是数字」的这样一个概念。
 
@@ -1026,7 +1048,7 @@ pandas 作者大神 Wes McKinney 对此也[很无奈的表示](https://stackover
 
 虽然是float类型，但很多特性却不能简单的套用float。比如判断一个值是否是NaN，不能用`if a == np.NaN`，而是得用方法`if np.isnan(a)`。
 
-### 12.9.3. None@Python
+### 13.9.3. None@Python
 
 None 是 Python 原生的关于「无」的概念。None 本身作为一个数据类型，继承自 Object Type，与诸如 int/float 之类平起平坐。
 
@@ -1044,7 +1066,7 @@ class NoneType(object)
 
 唔，道生一，一生二，二生三，三生万物，看来这个 None，就是道啊……
 
-### 12.9.4. 总结
+### 13.9.4. 总结
 
 今天我们大致比较了一下 pandas/Numpy/Python 里面关于「无」这个概念的数据类型。pandas称之为 NA，Numpy 称之为 NaN，Python 称之为 None。其中
 
@@ -1052,7 +1074,7 @@ class NoneType(object)
 - NaN：float 类型，本意是表示「虽然在概念上是数据，但不是数字」的这样一个概念；
 - None：Python 原生的基础类型之一，表示空，表示无，表示道，表示……
 
-### 12.9.5. 来源
+### 13.9.5. 来源
 
 - [NaN - Wikipedia](https://en.wikipedia.org/wiki/NaN)
 - [Frequently Asked Questions (FAQ) — NaN, Integer NA values and NA type promotions](http://pandas.pydata.org/pandas-docs/stable/gotchas.html#support-for-integer-na)
@@ -1060,11 +1082,11 @@ class NoneType(object)
 - [Working with missing data — pandas 0.20.3 documentation](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
 - [《Python for Data Analysis》](https://book.douban.com/subject/10760444/)，Wes McKinney
 
-## 12.10. idxmin/idxmax
+## 13.10. idxmin/idxmax
 
 pandas 里面的 idxmin 和 argmin 看起来比较陌生，便本着每日一 Py 的原则想搞搞清楚。idxmax 和 argmax 类似，不过今天题图的美女胸比较 mini，便只看 min 吧。max 函数同理。
 
-### 12.10.1. 分析
+### 13.10.1. 分析
 
 先从 Series 看起。从 Series 文档里面可以看出，Series 的 argmin 等于 [numpy 的 ndarray.argmin 的 Series 版](http://pandas.pydata.org/pandas-docs/version/0.20.3/generated/pandas.Series.argmin.html)，作用是用来找出第一个最小值的 index。既然返回的是 Series 的 index，那数据类型应该也是匹配的。
 
@@ -1117,7 +1139,7 @@ argmin of row2 is b.
 
 与我们预想的一致，返回了 index。
 
-### 12.10.2. 分析
+### 13.10.2. 分析
 
 本来寻思也用类似的方法看看 idxmin，结果在文档页赫然发现和 argmin 完全一样的介绍
 
@@ -1128,14 +1150,13 @@ argmin of row2 is b.
 结果思路对了就省事儿多了。argmin 和 idxmin 的源代码链接都指向一个链接，idxmin 的源码。而且在源码后面明明确确的写着：
 
 ```
-# 13. compat
 argmin = idxmin
 argmax = idxmax
 ```
 
 吼吼，别名而已！
 
-### 13.0.3. 分析
+### 13.10.3. 分析
 
 DataFrame 没有 argmin 方法，只有 idxmin。我琢磨着之所以 Series 有两个一样的函数，应该是作者为了和 numpy 保持兼容吧，而他自己更倾向于用 idxmin。
 
@@ -1160,28 +1181,28 @@ dtype: int64
 dtype: object
 ```
 
-### 13.0.4. 总结
+### 13.10.4. 总结
 
 今天讨论了一下 pandas 里面的 argmin / idxmin 函数。对于 Series 来说，这两个其实是一个函数的两个不同名字，从源代码里面可以看出来；对于 DataFrame，则干脆没有 argmin，只有 idxmin。
 
 所以为了保持一致性，以后可以都统一用 idxmin。这个函数可以返回当前对象第一个出现最小值的索引。
 
-### 13.0.5. 来源
+### 13.10.5. 来源
 
 - [pandas.Series.idxmin — pandas 0.20.3 documentation](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.idxmin.html#pandas.Series.idxmin)
 - [pandas.Series.argmin — pandas 0.20.3 documentation](http://pandas.pydata.org/pandas-docs/version/0.20.3/generated/pandas.Series.argmin.html)
 - [pandas.DataFrame.idxmin — pandas 0.20.3 documentation](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.idxmin.html)
 - [pandas/series.py at v0.20.3 · pandas-dev/pandas](https://github.com/pandas-dev/pandas/blob/v0.20.3/pandas/core/series.py#L1213-L1239)
 
-## 13.1. 大小
+## 13.11. 大小
 
 数据分析前期准备自然不可能一下子就万事俱备，后期难免需要给原来的对象补充一些数据。那么对于 DataFrame 来说，具体如何操作呢？
 
-### 13.1.1. 添加新列
+### 13.11.1. 添加新列
 
 添加新列的方法非常简单，直接将列名指定相应数据即可，如 `stock['fluctuation'] = stock['High'] - stock['Low']` 。
 
-### 13.1.2. 生成新行
+### 13.11.2. 生成新行
 
 生成新行的时候可以用`loc`赋值，如 `df.loc[2]= pd.Series(np.arange(10))`
 
@@ -1189,7 +1210,7 @@ dtype: object
 
 另外，用`loc`添加Series为新列的时候需要注意，Series 如果和原来的 df 有相同的 column，即 df 的 column 和 Series 的 index 一致，是没什么问题的，否则会显示一堆 NA，除非给出参数` ignore_index=True`。
 
-### 13.1.3. 方法增加新行
+### 13.11.3. 方法增加新行
 
 用 append 可以把一个新的 Series/dict-like object 添加到现有 df 后面，并返回一个新的 df。
 
@@ -1203,7 +1224,7 @@ dtype: object
 
 反正Python的垃圾回收机制，会让不再使用的数据自动销毁。
 
-### 13.1.4. 来源
+### 13.11.4. 来源
 
 - [Package overview — pandas 0.20.3 documentation](http://pandas.pydata.org/pandas-docs/stable/overview.html)
 
