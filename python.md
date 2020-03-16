@@ -534,21 +534,31 @@ Numpy 的索引，用分别索引和列表索引都可以，如下：
 
 PPF can be used to calculate the percentile of a certain distribution.
 
-For example, get t the percentile of t distribution
+比如normal distribution，求0.0011的percentile，用
+
+```Python
+import scipy.stats as st
+st.norm.ppf(0.0011)
+3.0618141517617588
+```
+![](assets\ppf-normal.png)
+
+与查表基本一致。
+
+需要注意的是不同的分布表，其取值方向是不一样的，而Scipy的很固定，一直是从左到右。
+
+比如t distribution，
 
 `````python
-import scipy.stats as st
-p = st.t.ppf(0.95, 2)
-print(p)
-
+st.t.ppf(0.95, 2)
 2.919985580355516
 `````
 
-和查表得到的一样
+因为表格是从右到左，Scipy算的时候需要用 1-alpha。
 
 ![](assets\t-ppf.png)
 
-需要注意的是，一般t分布都是用alpha表示，但`ppf`用的`q`是1-alpha。
+具体实际使用的时候，需要区分清楚自己求的值的具体用法，比如是confidence level，还是significant level。
 
 # 13. pandas
 
