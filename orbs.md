@@ -322,3 +322,36 @@ Then we can get parameters to solve it.
 
 ## 7.1. Data Type
 
+### 7.1.1. Object
+
+Object in JavaScript is like the dictionary in Python, except that the item can only be string. So we have a new object `map`, which can contain number as index.
+
+### 7.1.2. Map
+
+```javascript
+var m = new Map([['Michael', 95], ['Bob', 75], ['Tracy', 85]]);
+m.set('Dong', 39);
+m.get('Michael'); // 95
+```
+
+### 7.1.3. Set
+
+JavaScript's `Set` is quite the same as Python's `Set`.
+
+## 7.2. Function
+
+### 7.2.1. High Order Function
+
+#### 7.2.1.1. map
+
+map function can use other function to an array, so that every item in this array can use this function.
+
+#### 7.2.1.2. reduce
+
+reduce function can calculate array item by item and return the final value. The effect is the same as
+
+```javascript
+[x1, x2, x3, x4].reduce(f) = f(f(f(x1, x2), x3), x4)
+```
+
+It can be used as $\sum$ for sum or $\Pi$ for multiply.
