@@ -33,18 +33,25 @@ Courses learned:
   - numpy
   - pandas
   - matplotlib
-  - scikit-learning
 - R
+  - dplyr
+  - ggplot2
+  - tibble
+  - tidyr
+  - readr
+  - purrr
 - Excel
   - Advanced function
   - Solver and other analysis toolpak
   - VBA
 - SPSS
+- Git
 - MATLAB
 - Octave
 - SQL
 - Mathcad 
-- Word, PowerPoint
+- Word
+- PowerPoint
 - AutoCAD
 - Other popular office software
 
@@ -53,6 +60,15 @@ Courses learned:
 - [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/verify/T7UH2NE74MRJ)
 
 ![](assets\Coursera-Machine-Learning.png)
+
+Machine Learning Model familiar:
+
+- Linear regression;
+- Logistic Regression;
+- Neural Network;
+- Support Vector Machine(SVM);
+- K-means(KNN);
+- Recommand System;
 
 ## 1.4. Work Experience
 

@@ -135,9 +135,47 @@ Li-Zhi
 
 # 6. Risk
 
-## 6.1. Credit Risk
+## 6.1. Rate Risk
 
-### 6.1.1. Hazard Rate
+### 6.1.1. Duration
+
+Duration is generally defined as Macaulay's Duration, which is
+
+$$
+D = \sum_{i=1}^n t_i(\frac{v_i}{B})
+$$
+
+Where
+
+$$
+v_i = c_ie^{-t_iy}
+$$
+
+- $c_i$: return cash flow;
+- $t_i$: time period;
+- $y$: continuous yield;
+
+### 6.1.2. Modified Duration
+
+If $y$ is not continuous rate, duration should be modified by $1+y/m$, where $y$ is rate by period, and $m$ is conversion time. So we get
+
+$$
+D_m = \frac{D}{1+y/m}
+$$
+
+### 6.1.3. Dollar Duration
+
+Dollar duration is defined as thed product of its duration and its price. So we get
+
+$$
+D_\$=DB=-\frac{\Delta B}{\Delta y}\frac{1}{B}B=-\frac{\Delta B}{\Delta y} = -\frac{\partial B}{\partial y}
+$$
+
+Whereas duration relates proportional changes in a bond’s price to its yield, dollar duration relates actual changes in the bond’s price to its yield. Dollar duration is similar to the delta measure.
+
+## 6.2. Credit Risk
+
+### 6.2.1. Hazard Rate
 
 TABLE 19.1 Average Cumulative Default Rates (%), 1970–2013
 
@@ -179,7 +217,7 @@ $$
 e^{-\int_0^t\lambda(\tau)d\tau}=1-Q(t)
 $$
 
-#### 6.1.1.1. Estimate
+#### 6.2.1.1. Estimate
 
 We can use credit spread rate to estimate $\lambda$
 
@@ -193,7 +231,7 @@ Where
 - R: recovery rate;
 - s(T): credit spread for a maturity of T;
 
-#### 6.1.1.2. Estimate by Risk rate and Yield rate
+#### 6.2.1.2. Estimate by Risk rate and Yield rate
 
 Suppose that a five-year corporate bond with a principal of 100 provides a coupon of 6% per annum (paid semiannually) and that the yield on the bond is 7% per annum (with continuous compounding). The yield on a similar risk-free bond is 5% (again with continuous compounding).Th yields imply that the price of the corporate bond is 95.34 and the price of the risk-free bond is 104.09.The expected loss from default over the five-year life of the bond is therefore 104.09–95.34, or $8.75. For simplicity, we suppose that the unconditional probability of default per year is the same each year and equal to Q. Furthermore, we assume defaults can happen only at times 0.5, 1.5, 2.5, 3.5, and 4.5 years (immediately before coupon payment dates). Risk-free rates are assumed to be 5% (with continuous compounding) for all maturities and the recovery rate (i.e., recovery as a percent of principal) is assumed to be 40%. (The analysis can be extended so that defaults happen more frequently.)
 
@@ -276,7 +314,7 @@ $$
 Q = \frac{8.75}{288.48}=3.03\%
 $$
 
-#### 6.1.1.3. by equity price
+#### 6.2.1.3. by equity price
 
 Merton proposed option's Black Scholes formula for bond, leads to
 
