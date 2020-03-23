@@ -53,6 +53,7 @@ Courses learned:
 - Word
 - PowerPoint
 - AutoCAD
+- JavaScript(learning)
 - Other popular office software
 
 ## 1.3. Certificate
@@ -67,7 +68,7 @@ Machine Learning Model familiar:
 - Logistic Regression;
 - Neural Network;
 - Support Vector Machine(SVM);
-- K-means(KNN);
+- k-Nearest Neighbors(k-NN);
 - Recommand System;
 
 ## 1.4. Work Experience
