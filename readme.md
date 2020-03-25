@@ -67,9 +67,9 @@ Machine Learning Model familiar:
 - Linear regression;
 - Logistic Regression;
 - Neural Network;
-- Support Vector Machine(SVM);
-- k-Nearest Neighbors(k-NN);
-- Recommand System;
+- Support Vector Machine (SVM);
+- k-Nearest Neighbours(k-NN);
+- Recommend System;
 
 ## 1.4. Work Experience
 
